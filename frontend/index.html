@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoMo SMS Analysis Dashboard</title>
+
+    <!-- Link to external CSS stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Load Chart.js library for data visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Dashboard Header -->
+    <header>
+        <h1>MoMo SMS Dashboard</h1>
+        <p>Analyze and visualize Mobile Money transaction data</p>
+    </header>
+
+    <main>
+        <!-- Search and Filter Section -->
+        <section class="controls">
+            <!-- Search input box -->
+            <input type="text" id="searchInput" placeholder="Search by keyword..." />
+
+            <!-- Dropdown to filter by transaction category -->
+            <select id="filterSelect">
+                <option value="All">All Categories</option>
+                <option value="Incoming Money">Incoming Money</option>
+                <option value="Payments to Code Holders">Payments to Code Holders</option>
+                <option value="Transfers to Mobile Numbers">Transfers to Mobile Numbers</option>
+                <option value="Bank Deposits">Bank Deposits</option>
+                <option value="Airtime Bill Payments">Airtime Bill Payments</option>
+                <option value="Cash Power Bill Payments">Cash Power Bill Payments</option>
+                <option value="Transactions Initiated by Third Parties">Third-Party Transactions</option>
+                <option value="Withdrawals from Agents">Withdrawals</option>
+                <option value="Bank Transfers">Bank Transfers</option>
+                <option value="Internet and Voice Bundle Purchases">Bundles</option>
+                <option value="Uncategorized">Uncategorized</option>
+            </select>
+        </section>
+
+        <!-- Dashboard visualization section -->
+        <section class="dashboard">
+            <!-- Chart canvas element -->
+            <canvas id="categoryChart"></canvas>
+
+            <!-- List of filtered transactions -->
+            <div id="transactionList"></div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>MoMo SMS Analysis </p>
+    </footer>
+
+    <!-- Link to external JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

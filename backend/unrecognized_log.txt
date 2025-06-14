@@ -1,0 +1,769 @@
+TxId: 73214484437. Your payment of 1,000 RWF to Jane Smith 12845 has been completed at 2024-05-10 16:31:39. Your new balance: 1,000 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 51732411227. Your payment of 600 RWF to Samuel Carter 95464 has been completed at 2024-05-10 21:32:32. Your new balance: 400 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 17818959211. Your payment of 2,000 RWF to Samuel Carter 14965 has been completed at 2024-05-11 18:48:42. Your new balance: 38,400 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 45434420466. Your payment of 10,900 RWF to Jane Smith 59543 has been completed at 2024-05-12 13:26:13. Your new balance: 14,380 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 82113964658. Your payment of 3,500 RWF to Alex Doe 43810 has been completed at 2024-05-12 13:34:25. Your new balance: 10,880 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 26614842768. Your payment of 1,000 RWF to Robert Brown 41193 has been completed at 2024-05-12 17:58:15. Your new balance: 9,880 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 70497610538. Your payment of 5,000 RWF to Linda Green 75028 has been completed at 2024-05-12 18:08:58. Your new balance: 4,880 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-05-14 21:01:00. Message from debit receiver: . Your new balance:4060 RWF. Fee was 0 RWF. Financial Transaction Id: 13947831685. External Transaction Id: 47842929.*EN#
+TxId: 24227321992. Your payment of 1,600 RWF to Linda Green 14166 has been completed at 2024-05-14 21:29:01. Your new balance: 2,460 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 18249226395. Your payment of 2,000 RWF to Alex Doe 23199 has been completed at 2024-05-14 21:29:35. Your new balance: 460 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 98755359894. Your payment of 1,800 RWF to Alex Doe 73050 has been completed at 2024-05-15 09:16:32. Your new balance: 3,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 65789139357. Your payment of 1,000 RWF to Alex Doe 46904 has been completed at 2024-05-15 20:38:44. Your new balance: 340 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 16913786322. Your payment of 2,150 RWF to Linda Green 20428 has been completed at 2024-05-16 21:35:36. Your new balance: 3,890 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 30173936259. Your payment of 1,500 RWF to Robert Brown 52128 has been completed at 2024-05-18 08:15:31. Your new balance: 4,190 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 38084447123. Your payment of 6,000 RWF to Jane Smith 48045 has been completed at 2024-05-18 08:48:28. Your new balance: 3,190 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 32894434269. Your payment of 1,500 RWF to Jane Smith 61445 has been completed at 2024-05-20 16:55:34. Your new balance: 2,570 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 61189493387. Your payment of 3,500 RWF to Robert Brown 61316 has been completed at 2024-05-22 13:44:59. Your new balance: 2,950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 37467134419. Your payment of 1,800 RWF to Robert Brown 28481 has been completed at 2024-05-23 09:51:43. Your new balance: 1,150 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 12131092250. Your payment of 1,000 RWF to Samuel Carter 98117 has been completed at 2024-05-24 13:10:41. Your new balance: 3,250 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 35617026753. Your payment of 1,500 RWF to Alex Doe 22692 has been completed at 2024-05-24 16:41:03. Your new balance: 1,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 59168184137. Your payment of 2,000 RWF to Alex Doe 14717 has been completed at 2024-05-24 23:07:44. Your new balance: 3,050 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 47570656030. Your payment of 2,000 RWF to Samuel Carter 23701 has been completed at 2024-05-25 04:54:54. Your new balance: 1,050 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 95960893947. Your payment of 2,000 RWF to Samuel Carter 19954 has been completed at 2024-05-25 11:19:23. Your new balance: 4,050 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 43786042083. Your payment of 9,300 RWF to Jane Smith 15975 has been completed at 2024-05-25 17:20:20. Your new balance: 4,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 51199793551. Your payment of 2,000 RWF to Samuel Carter 24729 has been completed at 2024-05-25 19:50:55. Your new balance: 2,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 90057863776. Your payment of 1,000 RWF to Jane Smith 55799 has been completed at 2024-05-25 23:47:53. Your new balance: 1,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+You Abebe Chala CHEBUDIE (*********036) have via agent: Agent Sophia (250790777777), withdrawn 20000 RWF from your mobile money account: 36521838 at 2024-05-26 02:10:27 and you can now collect your money in cash. Your new balance: 6400 RWF. Fee paid: 350 RWF. Message from agent: 1. Financial Transaction Id: 14098463509.
+<#> Dear Customer, your MTN MoMo application one-time password is :2476.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+<#> Dear Customer, your MTN MoMo application one-time password is :2527.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+<#> Dear Customer, your MTN MoMo application one-time password is :2900.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+<#> Dear Customer, your MTN MoMo application one-time password is :9591.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+<#> Dear Customer, your MTN MoMo application one-time password is :4666.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+TxId: 65035082869. Your payment of 8,000 RWF to Jane Smith 51116 has been completed at 2024-05-26 17:19:28. Your new balance: 2,450 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 23112980564. Your payment of 2,000 RWF to Robert Brown 11803 has been completed at 2024-05-26 18:46:37. Your new balance: 450 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 97391079490. Your payment of 1,700 RWF to Samuel Carter 71141 has been completed at 2024-05-27 08:01:47. Your new balance: 3,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+<#> Dear Customer, your MTN MoMo application one-time password is :0086.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+TxId: 28021128029. Your payment of 1,500 RWF to Alex Doe 44654 has been completed at 2024-05-28 17:34:02. Your new balance: 1,400 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 59054859038. Your payment of 1,800 RWF to Jane Smith 39230 has been completed at 2024-05-30 12:14:29. Your new balance: 3,600 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 49894890981. Your payment of 1,700 RWF to Linda Green 61690 has been completed at 2024-05-31 09:39:36. Your new balance: 4,000 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 36362293540. Your payment of 1,500 RWF to Jane Smith 80677 has been completed at 2024-05-31 12:57:20. Your new balance: 2,500 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 38069282043. Your payment of 4,050 RWF to Jane Smith 20505 has been completed at 2024-06-01 14:35:41. Your new balance: 730 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 66215693108. Your payment of 1,000 RWF to Samuel Carter 81957 has been completed at 2024-06-01 19:46:46. Your new balance: 14,730 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 37706238756. Your payment of 900 RWF to Robert Brown 96964 has been completed at 2024-06-01 19:48:05. Your new balance: 13,830 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 22989641020. Your payment of 1,500 RWF to Linda Green 38423 has been completed at 2024-06-01 19:51:37. Your new balance: 2,230 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 28025360855. Your payment of 2,000 RWF to Alex Doe 65474 has been completed at 2024-06-02 21:10:45. Your new balance: 3,130 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 32615649069. Your payment of 3,500 RWF to Jane Smith 14003 has been completed at 2024-06-03 13:10:42. Your new balance: 3,030 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 21910499837. Your payment of 4,800 RWF to Alex Doe 46942 has been completed at 2024-06-03 18:57:19. Your new balance: 3,430 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 40412577651. Your payment of 1,300 RWF to Samuel Carter 46893 has been completed at 2024-06-03 19:34:13. Your new balance: 2,130 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 44021806588. Your payment of 1,500 RWF to Linda Green 96637 has been completed at 2024-06-04 09:32:38. Your new balance: 630 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 70782527436. Your payment of 3,500 RWF to Robert Brown 25426 has been completed at 2024-06-04 13:52:25. Your new balance: 2,130 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 15037119744. Your payment of 2,100 RWF to Alex Doe 72233 has been completed at 2024-06-04 21:19:34. Your new balance: 30 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 25107231114. Your payment of 24,500 RWF to Alex Doe 27079 has been completed at 2024-06-05 17:19:49. Your new balance: 830 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 19727516208. Your payment of 600 RWF to Linda Green 76533 has been completed at 2024-06-05 22:17:21. Your new balance: 1,630 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 600 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-06-06 16:19:01. Message from debit receiver: ITEC Pay. Your new balance:230 RWF. Fee was 0 RWF. Financial Transaction Id: 14262449979. External Transaction Id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*EN#
+TxId: 36046721654. Your payment of 800 RWF to Robert Brown 84176 has been completed at 2024-06-06 18:18:56. Your new balance: 2,830 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+Yello!Umaze kugura 2000Rwf(1GB)/30days igura 2,000 RWF
+*162*TxId:14324965479*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-11 06:26:11. Fee was 0 RWF. Your new balance: 350 RWF . Message: - -. *EN#
+TxId: 94257743617. Your payment of 3,500 RWF to Robert Brown 39208 has been completed at 2024-06-12 13:04:58. Your new balance: 2,710 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 28563784569. Your payment of 1,500 RWF to Alex Doe 39288 has been completed at 2024-06-12 17:08:44. Your new balance: 4,610 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 16877151789. Your payment of 1,500 RWF to Alex Doe 44082 has been completed at 2024-06-12 17:15:15. Your new balance: 3,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 49766645414. Your payment of 800 RWF to Linda Green 18881 has been completed at 2024-06-12 20:18:40. Your new balance: 5,670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 91799715733. Your payment of 1,000 RWF to Samuel Carter 70871 has been completed at 2024-06-12 22:08:07. Your new balance: 4,670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 42326639460. Your payment of 1,600 RWF to Jane Smith 37496 has been completed at 2024-06-12 22:24:34. Your new balance: 3,070 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 18893569803. Your payment of 1,500 RWF to Alex Doe 45991 has been completed at 2024-06-13 13:36:25. Your new balance: 3,650 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-06-14 07:52:10. Message from debit receiver: . Your new balance:4750 RWF. Fee was 0 RWF. Financial Transaction Id: 14366722236. External Transaction Id: 48214394.*EN#
+TxId: 10809435113. Your payment of 2,000 RWF to Linda Green 84094 has been completed at 2024-06-14 09:44:21. Your new balance: 2,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 97328486237. Your payment of 1,800 RWF to Samuel Carter 31469 has been completed at 2024-06-14 10:58:00. Your new balance: 950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 20564153955. Your payment of 2,500 RWF to Alex Doe 15064 has been completed at 2024-06-14 13:07:42. Your new balance: 3,450 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 31051483102. Your payment of 1,500 RWF to Samuel Carter 28053 has been completed at 2024-06-14 13:28:42. Your new balance: 1,950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 17481776844. Your payment of 1,800 RWF to Robert Brown 40227 has been completed at 2024-06-14 15:52:21. Your new balance: 5,050 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 63344530197. Your payment of 1,000 RWF to Robert Brown 18321 has been completed at 2024-06-14 20:04:10. Your new balance: 3,830 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 99134996997. Your payment of 1,500 RWF to Jane Smith 89064 has been completed at 2024-06-15 13:11:40. Your new balance: 4,730 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 96723699988. Your payment of 2,100 RWF to Jane Smith 92936 has been completed at 2024-06-15 13:20:08. Your new balance: 1,030 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 16545003631. Your payment of 700 RWF to Alex Doe 29114 has been completed at 2024-06-15 14:02:58. Your new balance: 49,610 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 61557468875. Your payment of 23,300 RWF to Jane Smith 90360 has been completed at 2024-06-15 15:37:37. Your new balance: 26,310 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 81945111303. Your payment of 11,000 RWF to Alex Doe 15688 has been completed at 2024-06-15 18:30:24. Your new balance: 12,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 8000 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-06-15 21:28:58. Message from debit receiver: 1599236171847972758074646. Your new balance:4110 RWF. Fee was 0 RWF. Financial Transaction Id: 14392932831. External Transaction Id: E39762254KPY1718479727.*EN#
+TxId: 59979980024. Your payment of 900 RWF to Robert Brown 32983 has been completed at 2024-06-16 12:28:56. Your new balance: 3,210 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 5000 RWF by Future Dynamic  Innovations ltd on your MOMO account was successfully completed at 2024-06-16 19:25:44. Message from debit receiver: 610. Your new balance:9350 RWF. Fee was 0 RWF. Financial Transaction Id: 14404189056. External Transaction Id: 475e95b8a1d049c2ba9ee675401d9332.*EN#
+TxId: 77021305535. Your payment of 7,000 RWF to Linda Green 89531 has been completed at 2024-06-16 20:13:42. Your new balance: 2,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 59491550845. Your payment of 500 RWF to Samuel Carter 54211 has been completed at 2024-06-16 21:48:11. Your new balance: 850 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 19524019964. Your payment of 4,500 RWF to Linda Green 22964 has been completed at 2024-06-17 15:57:16. Your new balance: 10,630 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 23764987164. Your payment of 9,900 RWF to Linda Green 57394 has been completed at 2024-06-17 16:27:00. Your new balance: 42,980 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 41741931224. Your payment of 2,800 RWF to Jane Smith 12146 has been completed at 2024-06-17 16:35:20. Your new balance: 40,180 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 81779365319. Your payment of 2,000 RWF to Linda Green 31161 has been completed at 2024-06-17 22:14:09. Your new balance: 15,210 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 12093489080. Your payment of 2,500 RWF to Alex Doe 12185 has been completed at 2024-06-18 13:32:45. Your new balance: 10,610 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 10919892030. Your payment of 1,500 RWF to Samuel Carter 54054 has been completed at 2024-06-18 13:47:33. Your new balance: 9,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 92393353015. Your payment of 1,500 RWF to Alex Doe 12474 has been completed at 2024-06-18 20:13:38. Your new balance: 10,810 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 70015105006. Your payment of 3,500 RWF to Robert Brown 29936 has been completed at 2024-06-19 13:14:56. Your new balance: 7,310 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 11901062453. Your payment of 1,500 RWF to Samuel Carter 20955 has been completed at 2024-06-19 16:07:43. Your new balance: 5,810 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF
+*162*TxId:14443130677*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-19 18:15:53. Fee was 0 RWF. Your new balance: 3810 RWF . Message: - -. *EN#
+TxId: 65472821949. Your payment of 1,500 RWF to Alex Doe 35808 has been completed at 2024-06-21 16:01:02. Your new balance: 2,640 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 18526546570. Your payment of 1,000 RWF to Alex Doe 27861 has been completed at 2024-06-21 19:02:57. Your new balance: 4,540 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 90823104833. Your payment of 800 RWF to Jane Smith 90263 has been completed at 2024-06-21 21:08:17. Your new balance: 3,740 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 94029377235. Your payment of 2,500 RWF to Alex Doe 38221 has been completed at 2024-06-22 06:14:50. Your new balance: 1,240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 38074910818. Your payment of 6,200 RWF to Linda Green 39756 has been completed at 2024-06-22 10:49:01. Your new balance: 8,740 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 43333418094. Your payment of 1,500 RWF to Alex Doe 29218 has been completed at 2024-06-22 11:40:56. Your new balance: 6,220 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 43349533054. Your payment of 10,000 RWF to Samuel Carter 44047 has been completed at 2024-06-22 18:15:44. Your new balance: 16,220 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 12723317674. Your payment of 15,000 RWF to Linda Green 94480 has been completed at 2024-06-23 12:16:52. Your new balance: 620 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 29081551536. Your payment of 600 RWF to Jane Smith 74631 has been completed at 2024-06-23 13:56:01. Your new balance: 20 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 55981011420. Your payment of 800 RWF to Jane Smith 67993 has been completed at 2024-06-23 17:02:22. Your new balance: 11,120 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 67456128847. Your payment of 3,500 RWF to Jane Smith 19682 has been completed at 2024-06-24 13:06:23. Your new balance: 420 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 45238324104. Your payment of 1,500 RWF to Robert Brown 66886 has been completed at 2024-06-24 15:03:47. Your new balance: 1,800 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 31373267832. Your payment of 1,000 RWF to Jane Smith 97326 has been completed at 2024-06-24 17:38:59. Your new balance: 800 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 99439041781. Your payment of 4,200 RWF to Alex Doe 41367 has been completed at 2024-06-24 20:40:01. Your new balance: 580 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 91628513434. Your payment of 2,400 RWF to Alex Doe 29405 has been completed at 2024-06-24 21:06:12. Your new balance: 3,180 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 95997298432. Your payment of 3,500 RWF to Jane Smith 79876 has been completed at 2024-06-25 13:32:46. Your new balance: 17,260 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 93272208136. Your payment of 1,500 RWF to Alex Doe 88360 has been completed at 2024-06-25 13:57:32. Your new balance: 10,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 76500239822. Your payment of 1,200 RWF to Robert Brown 89730 has been completed at 2024-06-25 19:03:16. Your new balance: 7,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 62680813443. Your payment of 15,000 RWF to Jane Smith 27049 has been completed at 2024-06-25 22:11:05. Your new balance: 19,960 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 60128198918. Your payment of 2,500 RWF to Samuel Carter 28730 has been completed at 2024-06-25 22:12:12. Your new balance: 17,460 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 45944658885. Your payment of 2,000 RWF to Jane Smith 50933 has been completed at 2024-06-25 23:32:50. Your new balance: 7,360 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 95262102019. Your payment of 2,000 RWF to Robert Brown 69373 has been completed at 2024-06-26 09:52:34. Your new balance: 5,360 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 87006296823. Your payment of 3,500 RWF to Robert Brown 96044 has been completed at 2024-06-26 13:49:35. Your new balance: 1,760 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 31576470196. Your payment of 2,600 RWF to Samuel Carter 26362 has been completed at 2024-06-26 20:56:26. Your new balance: 290 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 73458718592. Your payment of 1,300 RWF to Linda Green 68296 has been completed at 2024-06-26 21:15:01. Your new balance: 3,990 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 38607418037. Your payment of 2,000 RWF to Samuel Carter 32097 has been completed at 2024-06-27 10:11:28. Your new balance: 1,990 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 74528093189. Your payment of 3,000 RWF to Samuel Carter 80358 has been completed at 2024-06-27 12:42:40. Your new balance: 3,990 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 36124196268. Your payment of 2,000 RWF to Samuel Carter 53745 has been completed at 2024-06-28 11:57:46. Your new balance: 2,920 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 12278530897. Your payment of 3,500 RWF to Alex Doe 24477 has been completed at 2024-06-28 13:54:35. Your new balance: 4,420 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:14569120894*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-28 18:00:22. Fee was 0 RWF. Your new balance: 30170 RWF . Message: - -. *EN#
+Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF
+TxId: 80699538135. Your payment of 38,500 RWF to Jane Smith 49279 has been completed at 2024-06-28 23:17:22. Your new balance: 1,670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 00:32:19. Message from debit receiver: 250795963036. Your new balance:21670 RWF. Fee was 0 RWF. Financial Transaction Id: 14574631016. External Transaction Id: 169587820240628223202678996.*EN#
+TxId: 76219803114. Your payment of 16,500 RWF to Alex Doe 31462 has been completed at 2024-06-29 00:42:15. Your new balance: 5,170 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 49444119897. Your payment of 12,500 RWF to Samuel Carter 80818 has been completed at 2024-06-29 01:16:07. Your new balance: 42,670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 23617183914. Your payment of 11,500 RWF to Alex Doe 80450 has been completed at 2024-06-29 01:54:26. Your new balance: 31,170 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 77242964085. Your payment of 5,000 RWF to Linda Green 58573 has been completed at 2024-06-29 02:35:39. Your new balance: 26,170 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 46513194998. Your payment of 2,000 RWF to Linda Green 29839 has been completed at 2024-06-29 02:54:58. Your new balance: 24,170 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 91434725399. Your payment of 5,800 RWF to Alex Doe 52731 has been completed at 2024-06-29 13:17:13. Your new balance: 98,120 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 92465449198. Your payment of 17,000 RWF to Jane Smith 48732 has been completed at 2024-06-29 15:55:40. Your new balance: 65,870 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 16:06:06. Message from debit receiver: 250795963036. Your new balance:45870 RWF. Fee was 0 RWF. Financial Transaction Id: 14582579702. External Transaction Id: 169710420240629140334182447.*EN#
+TxId: 73443153836. Your payment of 4,000 RWF to Samuel Carter 93083 has been completed at 2024-06-29 18:25:16. Your new balance: 25,600 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 36547564090. Your payment of 15,000 RWF to Samuel Carter 33167 has been completed at 2024-06-29 20:14:18. Your new balance: 98,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 74110530634. Your payment of 3,000 RWF to Jane Smith 36439 has been completed at 2024-06-29 20:26:29. Your new balance: 95,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 13627937199. Your payment of 3,000 RWF to Samuel Carter 89385 has been completed at 2024-06-29 20:48:30. Your new balance: 92,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 72441399952. Your payment of 5,000 RWF to Robert Brown 56837 has been completed at 2024-06-29 21:14:55. Your new balance: 87,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 61734495932. Your payment of 3,000 RWF to Jane Smith 73232 has been completed at 2024-06-29 22:00:11. Your new balance: 84,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 60128358762. Your payment of 12,000 RWF to Jane Smith 57243 has been completed at 2024-06-29 22:22:57. Your new balance: 72,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 65198686588. Your payment of 3,000 RWF to Samuel Carter 43908 has been completed at 2024-06-29 23:00:54. Your new balance: 69,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 74637643766. Your payment of 3,000 RWF to Jane Smith 46155 has been completed at 2024-06-29 23:54:38. Your new balance: 66,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 19291503186. Your payment of 13,000 RWF to Robert Brown 66160 has been completed at 2024-06-30 02:08:25. Your new balance: 53,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 89343929108. Your payment of 1,400 RWF to Robert Brown 39520 has been completed at 2024-06-30 13:25:37. Your new balance: 39,680 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 59302716963. Your payment of 12,000 RWF to Samuel Carter 23837 has been completed at 2024-06-30 15:00:28. Your new balance: 27,680 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 26484890740. Your payment of 500 RWF to Alex Doe 14112 has been completed at 2024-06-30 15:49:57. Your new balance: 26,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 28014849597. Your payment of 4,500 RWF to Linda Green 10831 has been completed at 2024-06-30 16:51:36. Your new balance: 20,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 26330194128. Your payment of 2,000 RWF to Jane Smith 46726 has been completed at 2024-06-30 20:48:31. Your new balance: 28,490 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 55580359590. Your payment of 32,800 RWF to Alex Doe 86390 has been completed at 2024-06-30 22:09:42. Your new balance: 13,590 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 15722120949. Your payment of 1,500 RWF to Linda Green 77000 has been completed at 2024-07-01 10:31:30. Your new balance: 11,070 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 13515849108. Your payment of 24,850 RWF to Robert Brown 88803 has been completed at 2024-07-01 18:21:22. Your new balance: 36,220 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 91762592039. Your payment of 500 RWF to Robert Brown 62116 has been completed at 2024-07-01 18:32:23. Your new balance: 26,620 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 10806359835. Your payment of 16,000 RWF to Linda Green 78551 has been completed at 2024-07-01 20:01:06. Your new balance: 10,620 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 72418341683. Your payment of 2,200 RWF to Alex Doe 88813 has been completed at 2024-07-01 20:07:36. Your new balance: 8,420 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 36585848121. Your payment of 1,300 RWF to Jane Smith 16905 has been completed at 2024-07-02 10:01:10. Your new balance: 7,120 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 58456925124. Your payment of 2,500 RWF to Alex Doe 28379 has been completed at 2024-07-02 13:11:53. Your new balance: 14,370 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 52596922232. Your payment of 500 RWF to Linda Green 70581 has been completed at 2024-07-02 18:47:07. Your new balance: 10,870 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 15105279544. Your payment of 1,000 RWF to Samuel Carter 46317 has been completed at 2024-07-02 18:48:29. Your new balance: 9,870 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 30881509437. Your payment of 40,000 RWF to Robert Brown 45612 has been completed at 2024-07-03 09:55:54. Your new balance: 9,870 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 75410293151. Your payment of 1,300 RWF to Samuel Carter 78656 has been completed at 2024-07-03 10:01:38. Your new balance: 8,570 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 62824215473. Your payment of 3,000 RWF to Alex Doe 54679 has been completed at 2024-07-03 13:54:02. Your new balance: 2,970 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 45688985882. Your payment of 1,500 RWF to Jane Smith 87381 has been completed at 2024-07-03 18:32:50. Your new balance: 1,320 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 16694058718. Your payment of 600 RWF to Robert Brown 37824 has been completed at 2024-07-03 19:51:48. Your new balance: 720 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:14655104674*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-04 14:02:53. Fee was 0 RWF. Your new balance: 220 RWF . Message: - -. *EN#
+Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TxId: 99848480430. Your payment of 16,000 RWF to Linda Green 29449 has been completed at 2024-07-04 16:30:35. Your new balance: 6,070 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 35153028513. Your payment of 2,500 RWF to Jane Smith 69781 has been completed at 2024-07-05 13:10:38. Your new balance: 16,570 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 67511009036. Your payment of 1,000 RWF to Linda Green 66505 has been completed at 2024-07-05 13:16:13. Your new balance: 15,570 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 34707153443. Your payment of 1,000 RWF to Robert Brown 62497 has been completed at 2024-07-05 18:20:55. Your new balance: 14,570 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 38508422103. Your payment of 6,000 RWF to Jane Smith 43089 has been completed at 2024-07-06 00:11:24. Your new balance: 15,950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 34521857854. Your payment of 1,000 RWF to Robert Brown 52619 has been completed at 2024-07-06 00:44:32. Your new balance: 14,950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 41545470202. Your payment of 23,000 RWF to Jane Smith 46824 has been completed at 2024-07-06 15:49:18. Your new balance: 31,950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 11475000639. Your payment of 1,000 RWF to Alex Doe 19874 has been completed at 2024-07-06 20:31:06. Your new balance: 28,350 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 56884759672. Your payment of 700 RWF to Alex Doe 40378 has been completed at 2024-07-06 22:28:46. Your new balance: 25,910 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 89252038095. Your payment of 6,000 RWF to Alex Doe 72640 has been completed at 2024-07-07 02:42:23. Your new balance: 19,910 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 78679877816. Your payment of 13,000 RWF to Linda Green 88021 has been completed at 2024-07-07 15:21:37. Your new balance: 4,060 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 81915290006. Your payment of 1,300 RWF to Linda Green 30473 has been completed at 2024-07-08 11:08:11. Your new balance: 7,140 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 72699451485. Your payment of 3,300 RWF to Jane Smith 69362 has been completed at 2024-07-08 13:37:44. Your new balance: 3,840 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 80209257569. Your payment of 2,500 RWF to Samuel Carter 74506 has been completed at 2024-07-08 18:56:43. Your new balance: 19,690 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 98284235113. Your payment of 1,500 RWF to Samuel Carter 94613 has been completed at 2024-07-08 19:36:52. Your new balance: 18,190 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 84747563706. Your payment of 1,500 RWF to Linda Green 76164 has been completed at 2024-07-09 13:08:04. Your new balance: 15,390 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 90348213649. Your payment of 40,000 RWF to Linda Green 94438 has been completed at 2024-07-09 18:35:39. Your new balance: 9,270 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 69649307640. Your payment of 1,300 RWF to Robert Brown 10193 has been completed at 2024-07-10 10:27:07. Your new balance: 7,970 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 53891623812. Your payment of 3,300 RWF to Samuel Carter 12689 has been completed at 2024-07-10 13:56:04. Your new balance: 4,670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 50912955416. Your payment of 3,500 RWF to Alex Doe 29799 has been completed at 2024-07-10 18:33:07. Your new balance: 1,170 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 74932161869. Your payment of 500 RWF to Jane Smith 50454 has been completed at 2024-07-10 18:54:44. Your new balance: 670 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:14756781450*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-11 09:25:46. Fee was 0 RWF. Your new balance: 340 RWF . Message: - -. *EN#
+Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TxId: 87090810360. Your payment of 1,300 RWF to Samuel Carter 65775 has been completed at 2024-07-11 09:38:00. Your new balance: 19,040 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 12980825408. Your payment of 7,000 RWF to Jane Smith 65410 has been completed at 2024-07-11 13:51:42. Your new balance: 12,040 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 87304861537. Your payment of 400 RWF to Linda Green 86689 has been completed at 2024-07-11 20:54:21. Your new balance: 10,240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 16850663914. Your payment of 1,000 RWF to Alex Doe 97029 has been completed at 2024-07-11 20:57:16. Your new balance: 9,240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 85764457767. Your payment of 1,500 RWF to Jane Smith 70173 has been completed at 2024-07-12 18:11:08. Your new balance: 2,640 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 29430841892. Your payment of 1,000 RWF to Robert Brown 98461 has been completed at 2024-07-12 18:50:15. Your new balance: 1,640 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*164*S*Y'ello,A transaction of 2000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-07-14 15:19:17. Message from debit receiver: . Your new balance:27570 RWF. Fee was 0 RWF. Financial Transaction Id: 14807754878. External Transaction Id: 17209629782498301.*EN#
+TxId: 72553027719. Your payment of 18,800 RWF to Robert Brown 88017 has been completed at 2024-07-14 17:07:38. Your new balance: 8,770 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 23386885212. Your payment of 800 RWF to Jane Smith 49790 has been completed at 2024-07-14 17:32:08. Your new balance: 7,150 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 44609370529. Your payment of 5,000 RWF to Robert Brown 42656 has been completed at 2024-07-14 23:03:46. Your new balance: 50,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 90206827638. Your payment of 40,000 RWF to Alex Doe 87860 has been completed at 2024-07-14 23:06:13. Your new balance: 10,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 22146060402. Your payment of 5,000 RWF to Samuel Carter 42579 has been completed at 2024-07-14 23:47:12. Your new balance: 5,110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 52332988443. Your payment of 5,000 RWF to Alex Doe 65209 has been completed at 2024-07-15 00:41:54. Your new balance: 110 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 59668582919. Your payment of 1,500 RWF to Linda Green 42316 has been completed at 2024-07-16 18:11:18. Your new balance: 11,390 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 89908606372. Your payment of 1,000 RWF to Robert Brown 78512 has been completed at 2024-07-16 18:39:03. Your new balance: 10,390 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 46934619518. Your payment of 1,500 RWF to Alex Doe 70256 has been completed at 2024-07-17 19:20:29. Your new balance: 10,440 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 66395034050. Your payment of 1,000 RWF to Alex Doe 43296 has been completed at 2024-07-17 19:47:26. Your new balance: 9,440 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 69887702746. Your payment of 1,300 RWF to Linda Green 88463 has been completed at 2024-07-18 09:42:28. Your new balance: 8,140 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 63310525007. Your payment of 1,000 RWF to Linda Green 92026 has been completed at 2024-07-18 19:31:18. Your new balance: 6,120 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 95583860245. Your payment of 1,500 RWF to Linda Green 89136 has been completed at 2024-07-19 11:05:28. Your new balance: 4,620 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 66819031167. Your payment of 1,200 RWF to Samuel Carter 74866 has been completed at 2024-07-19 12:13:36. Your new balance: 3,420 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 56567422826. Your payment of 3,500 RWF to Jane Smith 50730 has been completed at 2024-07-19 12:47:58. Your new balance: 9,920 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 21105102493. Your payment of 1,500 RWF to Alex Doe 82226 has been completed at 2024-07-19 20:46:37. Your new balance: 8,420 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 63176850070. Your payment of 7,300 RWF to Robert Brown 71154 has been completed at 2024-07-19 21:06:37. Your new balance: 21,120 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 55265011853. Your payment of 1,000 RWF to Samuel Carter 70896 has been completed at 2024-07-20 13:44:05. Your new balance: 18,020 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 37017834113. Your payment of 7,910 RWF to Robert Brown 10994 has been completed at 2024-07-20 15:59:49. Your new balance: 8,010 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 60895608806. Your payment of 2,850 RWF to Jane Smith 27904 has been completed at 2024-07-20 18:07:22. Your new balance: 1,960 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 87797195810. Your payment of 700 RWF to Samuel Carter 57410 has been completed at 2024-07-20 18:10:13. Your new balance: 1,260 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+A reversal has been initiated for your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF.
+*162*TxId:14909215103*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-07-21 18:19:26. Fee was 0 RWF. Your new balance: 60 RWF . Message: - -. *EN#
+Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF
+TxId: 35751352205. Your payment of 1,300 RWF to Jane Smith 99855 has been completed at 2024-07-22 11:01:18. Your new balance: 18,760 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 90362526943. Your payment of 2,000 RWF to Robert Brown 12608 has been completed at 2024-07-22 17:59:18. Your new balance: 15,360 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 41432289875. Your payment of 1,800 RWF to Robert Brown 18604 has been completed at 2024-07-22 18:05:21. Your new balance: 13,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 44149221556. Your payment of 1,000 RWF to Samuel Carter 49098 has been completed at 2024-07-22 20:18:47. Your new balance: 12,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 33565890577. Your payment of 1,200 RWF to Linda Green 13794 has been completed at 2024-07-22 20:37:56. Your new balance: 11,360 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 41602878997. Your payment of 1,000 RWF to Robert Brown 47185 has been completed at 2024-07-23 20:30:00. Your new balance: 540 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+*162*TxId:14940294542*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-23 21:22:15. Fee was 0 RWF. Your new balance: 40 RWF . Message: - -. *EN#
+TxId: 14739625447. Your payment of 7,800 RWF to Robert Brown 57161 has been completed at 2024-07-24 13:07:18. Your new balance: 1,440 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 76672344043. Your payment of 1,200 RWF to Linda Green 95561 has been completed at 2024-07-24 18:08:19. Your new balance: 240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 60173686359. Your payment of 1,000 RWF to Robert Brown 21206 has been completed at 2024-07-24 19:23:33. Your new balance: 8,240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 92109248895. Your payment of 5,600 RWF to Jane Smith 96776 has been completed at 2024-07-24 19:31:42. Your new balance: 2,640 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 71788861419. Your payment of 4,000 RWF to Alex Doe 26309 has been completed at 2024-07-24 19:50:49. Your new balance: 48,640 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 88491836419. Your payment of 1,000 RWF to Samuel Carter 12849 has been completed at 2024-07-24 22:36:57. Your new balance: 37,540 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 91472495825. Your payment of 4,000 RWF to Samuel Carter 65578 has been completed at 2024-07-24 22:50:45. Your new balance: 33,540 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 34195714002. Your payment of 1,300 RWF to Linda Green 58279 has been completed at 2024-07-25 09:56:10. Your new balance: 32,240 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 67819295386. Your payment of 2,500 RWF to Samuel Carter 52533 has been completed at 2024-07-25 14:29:24. Your new balance: 8,520 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 82065623976. Your payment of 1,500 RWF to Linda Green 37513 has been completed at 2024-07-25 23:22:00. Your new balance: 6,000 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 42285606353. Your payment of 2,000 RWF to Alex Doe 19717 has been completed at 2024-07-25 23:46:40. Your new balance: 4,000 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+Yello!Umaze kugura 2000Rwf(1.5GB) igura 2,000 RWF
+*162*TxId:14969968017*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-07-26 00:10:38. Fee was 0 RWF. Your new balance: 2000 RWF . Message: - -. *EN#
+TxId: 36437958017. Your payment of 7,500 RWF to Jane Smith 21807 has been completed at 2024-07-26 00:13:42. Your new balance: 14,500 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 85850951309. Your payment of 6,600 RWF to Jane Smith 61012 has been completed at 2024-07-26 00:49:56. Your new balance: 7,900 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 10296908600. Your payment of 1,500 RWF to Jane Smith 43509 has been completed at 2024-07-26 00:50:49. Your new balance: 6,400 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 81424789154. Your payment of 3,000 RWF to Samuel Carter 18082 has been completed at 2024-07-26 13:30:43. Your new balance: 1,750 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 60914783301. Your payment of 800 RWF to Jane Smith 15319 has been completed at 2024-07-26 13:37:28. Your new balance: 950 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:14977177408*S*Your payment of 673000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:16:04. Fee was 8000 RWF. Your new balance: 4950 RWF . Message: - Transaction has been processed successfully. *EN#
+*162*TxId:14977293553*S*Your payment of 45000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:24:04. Fee was 1200 RWF. Your new balance: 8750 RWF . Message: - Transaction has been processed successfully. *EN#
+*162*TxId:14977386817*S*Your payment of 50000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:30:04. Fee was 1200 RWF. Your new balance: 7550 RWF . Message: - Transaction has been processed successfully. *EN#
+TxId: 82008869453. Your payment of 3,000 RWF to Linda Green 66062 has been completed at 2024-07-27 17:49:46. Your new balance: 9,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 40600429643. Your payment of 20,000 RWF to Robert Brown 93437 has been completed at 2024-07-28 18:14:59. Your new balance: 89,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 64055047273. Your payment of 1,800 RWF to Linda Green 41843 has been completed at 2024-07-28 20:36:51. Your new balance: 85,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 89491266162. Your payment of 1,500 RWF to Jane Smith 22271 has been completed at 2024-07-29 11:22:28. Your new balance: 84,160 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 55841829409. Your payment of 3,000 RWF to Robert Brown 78422 has been completed at 2024-07-29 13:51:41. Your new balance: 81,160 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 88560738072. Your payment of 1,200 RWF to Samuel Carter 14297 has been completed at 2024-07-29 14:48:56. Your new balance: 79,960 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 30752287352. Your payment of 1,500 RWF to Jane Smith 30062 has been completed at 2024-07-29 18:18:11. Your new balance: 78,460 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 53255374349. Your payment of 3,300 RWF to Alex Doe 22997 has been completed at 2024-07-29 19:42:03. Your new balance: 75,160 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 51995555513. Your payment of 1,800 RWF to Samuel Carter 98562 has been completed at 2024-07-29 22:12:19. Your new balance: 73,360 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 82523323504. Your payment of 1,300 RWF to Linda Green 86341 has been completed at 2024-07-30 10:33:13. Your new balance: 72,060 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 83243497448. Your payment of 3,300 RWF to Robert Brown 81809 has been completed at 2024-07-30 13:10:45. Your new balance: 68,760 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 18412104580. Your payment of 4,500 RWF to Robert Brown 48490 has been completed at 2024-07-30 17:49:26. Your new balance: 62,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 37742687948. Your payment of 21,000 RWF to Alex Doe 71719 has been completed at 2024-07-30 18:02:26. Your new balance: 41,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 88339887283. Your payment of 1,000 RWF to Linda Green 36072 has been completed at 2024-07-30 18:15:35. Your new balance: 40,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 36652345884. Your payment of 600 RWF to Samuel Carter 79989 has been completed at 2024-07-30 20:15:12. Your new balance: 40,060 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 97102681312. Your payment of 4,000 RWF to Samuel Carter 66573 has been completed at 2024-07-30 20:28:24. Your new balance: 36,060 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 69262787089. Your payment of 1,500 RWF to Robert Brown 38667 has been completed at 2024-07-31 10:25:27. Your new balance: 34,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 84450540041. Your payment of 3,500 RWF to Jane Smith 47666 has been completed at 2024-07-31 13:07:12. Your new balance: 31,060 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 29940304846. Your payment of 1,500 RWF to Alex Doe 25299 has been completed at 2024-07-31 18:08:31. Your new balance: 29,560 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:15064161618*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-08-01 13:22:02. Fee was 0 RWF. Your new balance: 24960 RWF . Message: - -. *EN#
+Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TxId: 76571849631. Your payment of 3,300 RWF to Alex Doe 12163 has been completed at 2024-08-01 13:42:14. Your new balance: 21,660 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 84613735727. Your payment of 700 RWF to Robert Brown 25004 has been completed at 2024-08-01 16:17:18. Your new balance: 710 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+*162*TxId:15070248766*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-08-01 19:03:14. Fee was 0 RWF. Your new balance: 210 RWF . Message: - -. *EN#
+TxId: 67758041409. Your payment of 1,500 RWF to Linda Green 76096 has been completed at 2024-08-01 19:08:06. Your new balance: 48,710 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 37095118662. Your payment of 1,300 RWF to Samuel Carter 80498 has been completed at 2024-08-01 19:38:36. Your new balance: 47,410 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 54529107912. Your payment of 6,000 RWF to Samuel Carter 34176 has been completed at 2024-08-02 20:33:20. Your new balance: 30,440 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+*162*TxId:15097735991*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-03 16:42:06. Fee was 0 RWF. Your new balance: 4940 RWF . Message: - -. *EN#
+Yello!Umaze kugura 1000Rwf(1GB) igura 1,000 RWF
+TxId: 17312696676. Your payment of 7,000 RWF to Jane Smith 55269 has been completed at 2024-08-03 23:31:10. Your new balance: 46,340 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 44828677354. Your payment of 27,000 RWF to Robert Brown 39166 has been completed at 2024-08-04 19:52:21. Your new balance: 6,440 RWF. Fee was 0 RWF.Kanda*182*16# wiyandikishe muri poromosiyo ya BivaMoMotima, ugire amahirwe yo gutsindira ibihembo bishimishije.
+TxId: 81849854541. Your payment of 3,000 RWF to Alex Doe 20595 has been completed at 2024-08-05 12:51:38. Your new balance: 7,390 RWF. Fee was 0 RWF.
+*162*TxId:15126906031*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-08-05 17:15:24. Fee was 0 RWF. Your new balance: 90 RWF . Message: - -. *EN#
+Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF
+TxId: 68702182375. Your payment of 1,500 RWF to Alex Doe 80371 has been completed at 2024-08-05 19:38:54. Your new balance: 7,290 RWF. Fee was 0 RWF.
+TxId: 35397483220. Your payment of 1,400 RWF to Linda Green 71208 has been completed at 2024-08-05 20:23:56. Your new balance: 5,890 RWF. Fee was 0 RWF.
+TxId: 61050966433. Your payment of 3,000 RWF to Jane Smith 25406 has been completed at 2024-08-06 13:24:47. Your new balance: 1,290 RWF. Fee was 0 RWF.
+Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF
+*162*TxId:15146128209*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-06 20:22:06. Fee was 0 RWF. Your new balance: 290 RWF . Message: - -. *EN#
+TxId: 17146568940. Your payment of 1,500 RWF to Samuel Carter 89134 has been completed at 2024-08-06 20:24:03. Your new balance: 18,790 RWF. Fee was 0 RWF.
+TxId: 51244172238. Your payment of 1,300 RWF to Jane Smith 25549 has been completed at 2024-08-06 20:55:47. Your new balance: 17,490 RWF. Fee was 0 RWF.
+TxId: 42404795768. Your payment of 700 RWF to Alex Doe 13104 has been completed at 2024-08-06 21:18:17. Your new balance: 16,790 RWF. Fee was 0 RWF.
+TxId: 28724945380. Your payment of 2,000 RWF to Jane Smith 51892 has been completed at 2024-08-06 21:26:41. Your new balance: 4,690 RWF. Fee was 0 RWF.
+TxId: 84355626350. Your payment of 3,500 RWF to Robert Brown 18531 has been completed at 2024-08-07 12:50:28. Your new balance: 49,590 RWF. Fee was 0 RWF.
+TxId: 66942812945. Your payment of 2,000 RWF to Linda Green 20387 has been completed at 2024-08-07 16:41:12. Your new balance: 45,990 RWF. Fee was 0 RWF.
+TxId: 44686423914. Your payment of 40,000 RWF to Samuel Carter 88003 has been completed at 2024-08-07 16:50:31. Your new balance: 5,990 RWF. Fee was 0 RWF.
+TxId: 90009446652. Your payment of 4,000 RWF to Robert Brown 10818 has been completed at 2024-08-07 18:02:56. Your new balance: 48,290 RWF. Fee was 0 RWF.
+TxId: 39711811703. Your payment of 22,400 RWF to Robert Brown 48951 has been completed at 2024-08-07 18:21:22. Your new balance: 25,890 RWF. Fee was 0 RWF.
+TxId: 43449848103. Your payment of 1,500 RWF to Robert Brown 36649 has been completed at 2024-08-07 20:25:13. Your new balance: 23,370 RWF. Fee was 0 RWF.
+TxId: 36806257641. Your payment of 1,200 RWF to Jane Smith 65429 has been completed at 2024-08-07 20:59:02. Your new balance: 22,170 RWF. Fee was 0 RWF.
+TxId: 85705805836. Your payment of 11,600 RWF to Samuel Carter 57462 has been completed at 2024-08-08 14:37:29. Your new balance: 10,570 RWF. Fee was 0 RWF.
+TxId: 98718398488. Your payment of 1,200 RWF to Linda Green 62587 has been completed at 2024-08-08 15:38:05. Your new balance: 9,370 RWF. Fee was 0 RWF.
+*162*TxId:15178525743*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-08 21:19:16. Fee was 0 RWF. Your new balance: 5170 RWF . Message: - -. *EN#
+Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF
+*162*TxId:15183763430*S*Your payment of 2000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-09 11:44:02. Fee was 120 RWF. Your new balance: 1050 RWF . Message: - Transaction has been processed successfully. *EN#
+*162*TxId:15204526240*S*Your payment of 90000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-10 18:10:04. Fee was 2000 RWF. Your new balance: 9050 RWF . Message: - Transaction has been processed successfully. *EN#
+<#> Dear Customer, your MTN MoMo application one-time password is :2632.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+<#> Dear Customer, your MTN MoMo application one-time password is :1827.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>.
+1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender:  Fee: RWF
+TxId: 65794486507. Your payment of 700 RWF to Robert Brown 95184 has been completed at 2024-08-25 03:16:33. Your new balance: 8,100 RWF. Fee was 0 RWF.
+TxId: 54527566978. Your payment of 2,500 RWF to Robert Brown 21510 has been completed at 2024-08-25 05:37:48. Your new balance: 5,600 RWF. Fee was 0 RWF.
+TxId: 44085722067. Your payment of 500 RWF to Alex Doe 30039 has been completed at 2024-08-25 19:15:03. Your new balance: 42,850 RWF. Fee was 0 RWF.
+TxId: 34840236831. Your payment of 3,500 RWF to Linda Green 44139 has been completed at 2024-08-25 19:19:56. Your new balance: 39,350 RWF. Fee was 0 RWF.
+TxId: 33807026334. Your payment of 700 RWF to Jane Smith 27398 has been completed at 2024-08-25 19:24:15. Your new balance: 38,650 RWF. Fee was 0 RWF.
+TxId: 17685290715. Your payment of 200 RWF to Jane Smith 94124 has been completed at 2024-08-25 19:35:06. Your new balance: 38,450 RWF. Fee was 0 RWF.
+TxId: 30421279676. Your payment of 2,800 RWF to Robert Brown 21529 has been completed at 2024-08-26 14:20:25. Your new balance: 23,630 RWF. Fee was 0 RWF.
+TxId: 67810322933. Your payment of 40,000 RWF to Samuel Carter 36220 has been completed at 2024-08-26 18:44:28. Your new balance: 33,630 RWF. Fee was 0 RWF.
+TxId: 16477334750. Your payment of 1,000 RWF to Alex Doe 67381 has been completed at 2024-08-26 19:28:38. Your new balance: 32,630 RWF. Fee was 0 RWF.
+TxId: 63168026131. Your payment of 2,000 RWF to Samuel Carter 81187 has been completed at 2024-08-26 19:54:59. Your new balance: 30,630 RWF. Fee was 0 RWF.
+TxId: 37958581135. Your payment of 800 RWF to Alex Doe 51129 has been completed at 2024-08-26 20:17:35. Your new balance: 29,830 RWF. Fee was 0 RWF.
+TxId: 32776707801. Your payment of 1,500 RWF to Jane Smith 98770 has been completed at 2024-08-27 12:07:17. Your new balance: 28,330 RWF. Fee was 0 RWF.
+TxId: 16642246344. Your payment of 3,500 RWF to Samuel Carter 56630 has been completed at 2024-08-27 12:45:12. Your new balance: 24,830 RWF. Fee was 0 RWF.
+TxId: 51287161721. Your payment of 1,500 RWF to Alex Doe 72777 has been completed at 2024-08-27 20:31:18. Your new balance: 14,810 RWF. Fee was 0 RWF.
+TxId: 42143703095. Your payment of 600 RWF to Robert Brown 99509 has been completed at 2024-08-27 20:44:39. Your new balance: 14,210 RWF. Fee was 0 RWF.
+TxId: 19778042081. Your payment of 1,000 RWF to Jane Smith 47042 has been completed at 2024-08-27 20:57:59. Your new balance: 13,210 RWF. Fee was 0 RWF.
+TxId: 65847057882. Your payment of 1,500 RWF to Linda Green 25980 has been completed at 2024-08-28 12:12:22. Your new balance: 21,460 RWF. Fee was 0 RWF.
+TxId: 50837825539. Your payment of 3,300 RWF to Linda Green 55509 has been completed at 2024-08-28 12:56:56. Your new balance: 18,160 RWF. Fee was 0 RWF.
+TxId: 72819907564. Your payment of 1,000 RWF to Jane Smith 11731 has been completed at 2024-08-28 19:47:54. Your new balance: 15,560 RWF. Fee was 0 RWF.
+TxId: 53433821307. Your payment of 2,300 RWF to Alex Doe 79544 has been completed at 2024-08-28 20:04:06. Your new balance: 13,260 RWF. Fee was 0 RWF.
+TxId: 58247627931. Your payment of 2,000 RWF to Linda Green 75600 has been completed at 2024-08-28 20:44:05. Your new balance: 11,260 RWF. Fee was 0 RWF.
+*162*TxId:15475262766*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-08-29 09:30:34. Fee was 0 RWF. Your new balance: 6260 RWF . Message: - -. *EN#
+Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF
+TxId: 19153266137. Your payment of 1,500 RWF to Linda Green 74929 has been completed at 2024-08-30 12:13:02. Your new balance: 99,460 RWF. Fee was 0 RWF.
+TxId: 39270807010. Your payment of 5,800 RWF to Jane Smith 65531 has been completed at 2024-08-30 14:28:34. Your new balance: 92,060 RWF. Fee was 0 RWF.
+TxId: 99076325019. Your payment of 1,300 RWF to Linda Green 16289 has been completed at 2024-08-30 15:16:18. Your new balance: 90,760 RWF. Fee was 0 RWF.
+TxId: 34261953989. Your payment of 1,500 RWF to Jane Smith 51632 has been completed at 2024-08-30 19:30:19. Your new balance: 85,920 RWF. Fee was 0 RWF.
+TxId: 96185760887. Your payment of 10,000 RWF to Samuel Carter 64575 has been completed at 2024-08-30 21:24:51. Your new balance: 75,920 RWF. Fee was 0 RWF.
+TxId: 97313704025. Your payment of 12,100 RWF to Alex Doe 86311 has been completed at 2024-08-31 17:20:27. Your new balance: 16,570 RWF. Fee was 0 RWF.
+TxId: 77555076585. Your payment of 1,200 RWF to Samuel Carter 16371 has been completed at 2024-08-31 18:44:51. Your new balance: 15,370 RWF. Fee was 0 RWF.
+TxId: 84510391939. Your payment of 2,000 RWF to Linda Green 30923 has been completed at 2024-08-31 18:47:20. Your new balance: 13,370 RWF. Fee was 0 RWF.
+TxId: 22766907160. Your payment of 1,500 RWF to Robert Brown 25919 has been completed at 2024-09-01 17:26:52. Your new balance: 11,870 RWF. Fee was 0 RWF.
+TxId: 28158968182. Your payment of 1,500 RWF to Robert Brown 21358 has been completed at 2024-09-01 20:46:16. Your new balance: 11,870 RWF. Fee was 0 RWF.
+TxId: 46906409049. Your payment of 7,000 RWF to Alex Doe 71929 has been completed at 2024-09-01 23:34:42. Your new balance: 4,870 RWF. Fee was 0 RWF.
+TxId: 54566717014. Your payment of 1,000 RWF to Alex Doe 17485 has been completed at 2024-09-02 00:26:59. Your new balance: 3,870 RWF. Fee was 0 RWF.
+TxId: 18226776468. Your payment of 21,000 RWF to Linda Green 97614 has been completed at 2024-09-02 13:54:14. Your new balance: 29,870 RWF. Fee was 0 RWF.
+TxId: 54349163900. Your payment of 1,500 RWF to Alex Doe 86356 has been completed at 2024-09-02 14:18:09. Your new balance: 28,370 RWF. Fee was 0 RWF.
+TxId: 78378077317. Your payment of 1,500 RWF to Jane Smith 86197 has been completed at 2024-09-02 17:40:32. Your new balance: 26,870 RWF. Fee was 0 RWF.
+TxId: 71235033735. Your payment of 2,000 RWF to Linda Green 46799 has been completed at 2024-09-02 22:36:13. Your new balance: 21,690 RWF. Fee was 0 RWF.
+TxId: 71779593744. Your payment of 3,500 RWF to Linda Green 72373 has been completed at 2024-09-03 13:13:07. Your new balance: 18,190 RWF. Fee was 0 RWF.
+TxId: 17120559943. Your payment of 5,000 RWF to Linda Green 99420 has been completed at 2024-09-03 17:49:33. Your new balance: 13,190 RWF. Fee was 0 RWF.
+TxId: 60424907269. Your payment of 1,500 RWF to Linda Green 27195 has been completed at 2024-09-03 18:53:19. Your new balance: 1,590 RWF. Fee was 0 RWF.
+TxId: 49794854165. Your payment of 4,500 RWF to Linda Green 74481 has been completed at 2024-09-03 21:03:08. Your new balance: 47,090 RWF. Fee was 0 RWF.
+TxId: 83422016891. Your payment of 1,500 RWF to Jane Smith 25500 has been completed at 2024-09-04 09:47:40. Your new balance: 45,590 RWF. Fee was 0 RWF.
+TxId: 63961191384. Your payment of 5,000 RWF to Jane Smith 25674 has been completed at 2024-09-04 13:36:38. Your new balance: 40,590 RWF. Fee was 0 RWF.
+TxId: 15812096064. Your payment of 4,500 RWF to Jane Smith 10890 has been completed at 2024-09-04 17:43:39. Your new balance: 36,090 RWF. Fee was 0 RWF.
+TxId: 67353135596. Your payment of 2,500 RWF to Linda Green 60962 has been completed at 2024-09-04 20:34:33. Your new balance: 33,590 RWF. Fee was 0 RWF.
+TxId: 57527013791. Your payment of 2,500 RWF to Samuel Carter 76240 has been completed at 2024-09-04 21:01:35. Your new balance: 31,090 RWF. Fee was 0 RWF.
+TxId: 61863630305. Your payment of 5,000 RWF to Alex Doe 62262 has been completed at 2024-09-04 23:02:36. Your new balance: 26,090 RWF. Fee was 0 RWF.
+TxId: 80939174580. Your payment of 6,000 RWF to Alex Doe 67793 has been completed at 2024-09-05 13:32:48. Your new balance: 18,490 RWF. Fee was 0 RWF.
+TxId: 29253592859. Your payment of 1,500 RWF to Linda Green 11347 has been completed at 2024-09-05 16:18:21. Your new balance: 16,990 RWF. Fee was 0 RWF.
+TxId: 95155933276. Your payment of 1,500 RWF to Samuel Carter 47641 has been completed at 2024-09-05 20:00:19. Your new balance: 15,490 RWF. Fee was 0 RWF.
+TxId: 52713686775. Your payment of 2,000 RWF to Samuel Carter 70583 has been completed at 2024-09-05 20:15:34. Your new balance: 10,490 RWF. Fee was 0 RWF.
+TxId: 18813391203. Your payment of 3,000 RWF to Robert Brown 35273 has been completed at 2024-09-06 15:49:18. Your new balance: 5,890 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-06 16:37:52. Message from debit receiver: . Your new balance:890 RWF. Fee was 0 RWF. Financial Transaction Id: 15606505500. External Transaction Id: 17256333763041376.*EN#
+TxId: 14741959916. Your payment of 4,800 RWF to Robert Brown 32723 has been completed at 2024-09-06 18:54:44. Your new balance: 16,090 RWF. Fee was 0 RWF.
+TxId: 37507241088. Your payment of 24,000 RWF to Linda Green 14558 has been completed at 2024-09-08 00:35:20. Your new balance: 126,360 RWF. Fee was 0 RWF.
+TxId: 88126214143. Your payment of 1,500 RWF to Alex Doe 80465 has been completed at 2024-09-08 01:06:16. Your new balance: 124,860 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-09-08 01:12:33. Message from debit receiver: 250795963036. Your new balance:103260 RWF. Fee was 0 RWF. Financial Transaction Id: 15628862865. External Transaction Id: 188160120240907231214390890.*EN#
+TxId: 95649567862. Your payment of 4,500 RWF to Samuel Carter 78619 has been completed at 2024-09-08 01:19:32. Your new balance: 98,760 RWF. Fee was 0 RWF.
+TxId: 10083689781. Your payment of 17,000 RWF to Jane Smith 85339 has been completed at 2024-09-08 02:40:02. Your new balance: 79,720 RWF. Fee was 0 RWF.
+TxId: 68925556497. Your payment of 14,500 RWF to Robert Brown 39629 has been completed at 2024-09-08 13:34:50. Your new balance: 63,180 RWF. Fee was 0 RWF.
+TxId: 90275359445. Your payment of 1,500 RWF to Robert Brown 12774 has been completed at 2024-09-08 14:52:24. Your new balance: 61,680 RWF. Fee was 0 RWF.
+TxId: 87571566840. Your payment of 700 RWF to Jane Smith 60790 has been completed at 2024-09-08 17:25:26. Your new balance: 51,840 RWF. Fee was 0 RWF.
+TxId: 13774628019. Your payment of 3,500 RWF to Linda Green 30786 has been completed at 2024-09-09 13:12:42. Your new balance: 19,470 RWF. Fee was 0 RWF.
+TxId: 65478956735. Your payment of 900 RWF to Robert Brown 77191 has been completed at 2024-09-09 13:36:13. Your new balance: 16,970 RWF. Fee was 0 RWF.
+TxId: 96684440213. Your payment of 6,500 RWF to Alex Doe 30414 has been completed at 2024-09-09 21:25:47. Your new balance: 10,470 RWF. Fee was 0 RWF.
+TxId: 10893465854. Your payment of 5,000 RWF to Linda Green 84616 has been completed at 2024-09-09 23:25:28. Your new balance: 3,870 RWF. Fee was 0 RWF.
+TxId: 18269992033. Your payment of 4,000 RWF to Jane Smith 88876 has been completed at 2024-09-10 00:14:44. Your new balance: 49,870 RWF. Fee was 0 RWF.
+TxId: 79540204158. Your payment of 1,500 RWF to Linda Green 77048 has been completed at 2024-09-10 10:34:14. Your new balance: 11,380 RWF. Fee was 0 RWF.
+TxId: 21123163485. Your payment of 10,000 RWF to Linda Green 41295 has been completed at 2024-09-10 18:17:25. Your new balance: 48,280 RWF. Fee was 0 RWF.
+TxId: 67195404064. Your payment of 1,500 RWF to Linda Green 65405 has been completed at 2024-09-10 20:35:20. Your new balance: 21,430 RWF. Fee was 0 RWF.
+TxId: 52003402612. Your payment of 1,500 RWF to Robert Brown 11621 has been completed at 2024-09-11 09:47:33. Your new balance: 19,930 RWF. Fee was 0 RWF.
+TxId: 70460358419. Your payment of 2,500 RWF to Samuel Carter 79967 has been completed at 2024-09-11 14:08:32. Your new balance: 14,330 RWF. Fee was 0 RWF.
+*162*TxId:15681666953*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-09-11 15:43:54. Fee was 0 RWF. Your new balance: 11330 RWF . Message: - -. *EN#
+Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TxId: 14667936406. Your payment of 1,500 RWF to Linda Green 57182 has been completed at 2024-09-11 16:11:26. Your new balance: 9,830 RWF. Fee was 0 RWF.
+TxId: 20823828008. Your payment of 1,000 RWF to Alex Doe 11421 has been completed at 2024-09-11 20:08:36. Your new balance: 8,830 RWF. Fee was 0 RWF.
+TxId: 40728069150. Your payment of 700 RWF to Samuel Carter 87737 has been completed at 2024-09-12 15:59:45. Your new balance: 4,210 RWF. Fee was 0 RWF.
+TxId: 60033930579. Your payment of 1,000 RWF to Robert Brown 65442 has been completed at 2024-09-12 20:27:42. Your new balance: 33,260 RWF. Fee was 0 RWF.
+TxId: 90380679208. Your payment of 2,000 RWF to Linda Green 51673 has been completed at 2024-09-12 20:35:11. Your new balance: 31,260 RWF. Fee was 0 RWF.
+TxId: 12313178673. Your payment of 1,500 RWF to Samuel Carter 98382 has been completed at 2024-09-13 13:52:19. Your new balance: 28,260 RWF. Fee was 0 RWF.
+TxId: 57207221830. Your payment of 1,500 RWF to Alex Doe 22803 has been completed at 2024-09-13 18:36:22. Your new balance: 20,560 RWF. Fee was 0 RWF.
+TxId: 72944989836. Your payment of 1,500 RWF to Alex Doe 31890 has been completed at 2024-09-13 19:11:06. Your new balance: 13,960 RWF. Fee was 0 RWF.
+TxId: 97178498053. Your payment of 5,300 RWF to Jane Smith 63271 has been completed at 2024-09-13 22:54:52. Your new balance: 5,040 RWF. Fee was 0 RWF.
+TxId: 80693378371. Your payment of 2,000 RWF to Robert Brown 72729 has been completed at 2024-09-14 07:55:18. Your new balance: 800 RWF. Fee was 0 RWF.
+TxId: 77217198389. Your payment of 1,200 RWF to Linda Green 28799 has been completed at 2024-09-14 11:58:38. Your new balance: 49,600 RWF. Fee was 0 RWF.
+TxId: 91279986205. Your payment of 2,000 RWF to Jane Smith 75402 has been completed at 2024-09-14 16:16:43. Your new balance: 2,250 RWF. Fee was 0 RWF.
+TxId: 28826953210. Your payment of 50,000 RWF to Samuel Carter 28438 has been completed at 2024-09-14 18:05:15. Your new balance: 52,250 RWF. Fee was 0 RWF.
+TxId: 17948439353. Your payment of 3,000 RWF to Alex Doe 97683 has been completed at 2024-09-14 18:05:54. Your new balance: 49,250 RWF. Fee was 0 RWF.
+TxId: 36356336397. Your payment of 13,500 RWF to Robert Brown 38807 has been completed at 2024-09-14 19:51:12. Your new balance: 35,750 RWF. Fee was 0 RWF.
+TxId: 69586541013. Your payment of 500 RWF to Alex Doe 72148 has been completed at 2024-09-14 19:51:47. Your new balance: 35,250 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10500 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-09-15 22:59:03. Message from debit receiver: 1727901172643392758074144. Your new balance:24750 RWF. Fee was 0 RWF. Financial Transaction Id: 15747282067. External Transaction Id: E42267291KPY1726433927.*EN#
+TxId: 94012583928. Your payment of 4,500 RWF to Linda Green 64137 has been completed at 2024-09-16 13:42:40. Your new balance: 0 RWF. Fee was 0 RWF.
+TxId: 37418547572. Your payment of 3,500 RWF to Samuel Carter 71202 has been completed at 2024-09-17 13:41:36. Your new balance: 46,500 RWF. Fee was 0 RWF.
+TxId: 31576458916. Your payment of 1,000 RWF to Alex Doe 32980 has been completed at 2024-09-17 20:28:01. Your new balance: 23,050 RWF. Fee was 0 RWF.
+TxId: 36553832778. Your payment of 5,200 RWF to Jane Smith 25602 has been completed at 2024-09-17 20:52:40. Your new balance: 17,850 RWF. Fee was 0 RWF.
+*162*TxId:15783543056*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-09-18 14:17:11. Fee was 0 RWF. Your new balance: 12850 RWF . Message: - -. *EN#
+Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF
+TxId: 67555624275. Your payment of 3,000 RWF to Jane Smith 31472 has been completed at 2024-09-18 14:33:31. Your new balance: 7,750 RWF. Fee was 0 RWF.
+TxId: 89855734028. Your payment of 2,500 RWF to Linda Green 15747 has been completed at 2024-09-18 20:16:35. Your new balance: 5,250 RWF. Fee was 0 RWF.
+TxId: 82996055356. Your payment of 2,100 RWF to Samuel Carter 27184 has been completed at 2024-09-18 21:03:03. Your new balance: 3,150 RWF. Fee was 0 RWF.
+TxId: 97916279369. Your payment of 4,000 RWF to Samuel Carter 33416 has been completed at 2024-09-18 22:41:17. Your new balance: 19,150 RWF. Fee was 0 RWF.
+TxId: 48524994396. Your payment of 3,500 RWF to Samuel Carter 96667 has been completed at 2024-09-19 13:52:14. Your new balance: 2,930 RWF. Fee was 0 RWF.
+TxId: 78688834340. Your payment of 14,100 RWF to Jane Smith 20307 has been completed at 2024-09-19 15:26:32. Your new balance: 38,830 RWF. Fee was 0 RWF.
+TxId: 60193532268. Your payment of 1,300 RWF to Jane Smith 94080 has been completed at 2024-09-19 20:48:28. Your new balance: 37,530 RWF. Fee was 0 RWF.
+TxId: 60158780091. Your payment of 40,000 RWF to Robert Brown 90615 has been completed at 2024-09-20 09:04:24. Your new balance: 2,530 RWF. Fee was 0 RWF.
+TxId: 35202815280. Your payment of 2,500 RWF to Jane Smith 35376 has been completed at 2024-09-20 13:56:57. Your new balance: 30 RWF. Fee was 0 RWF.
+TxId: 32371477638. Your payment of 3,300 RWF to Jane Smith 67795 has been completed at 2024-09-20 20:45:24. Your new balance: 41,630 RWF. Fee was 0 RWF.
+TxId: 15188663338. Your payment of 3,000 RWF to Samuel Carter 14192 has been completed at 2024-09-21 13:55:34. Your new balance: 38,630 RWF. Fee was 0 RWF.
+TxId: 46064965737. Your payment of 700 RWF to Robert Brown 76517 has been completed at 2024-09-21 14:02:35. Your new balance: 37,930 RWF. Fee was 0 RWF.
+*143*R*Y'ello, the transaction with amount 14200 RWF for ESICIA LTD with message: 1734874172692585358074144 failed at 2024-09-21 15:49:01 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+TxId: 13372675354. Your payment of 28,700 RWF to Jane Smith 65293 has been completed at 2024-09-22 13:39:35. Your new balance: 36,900 RWF. Fee was 0 RWF.
+TxId: 17063216498. Your payment of 700 RWF to Robert Brown 81980 has been completed at 2024-09-22 13:52:44. Your new balance: 36,200 RWF. Fee was 0 RWF.
+TxId: 62962558714. Your payment of 5,000 RWF to Samuel Carter 42535 has been completed at 2024-09-22 19:27:38. Your new balance: 12,600 RWF. Fee was 0 RWF.
+TxId: 37376382898. Your payment of 5,800 RWF to Robert Brown 40003 has been completed at 2024-09-23 13:32:42. Your new balance: 4,650 RWF. Fee was 0 RWF.
+TxId: 68217644339. Your payment of 35,300 RWF to Linda Green 92413 has been completed at 2024-09-23 23:30:35. Your new balance: 15,000 RWF. Fee was 0 RWF.
+TxId: 24296251142. Your payment of 800 RWF to Samuel Carter 61804 has been completed at 2024-09-24 13:13:00. Your new balance: 10,580 RWF. Fee was 0 RWF.
+TxId: 90644334751. Your payment of 2,500 RWF to Alex Doe 73621 has been completed at 2024-09-24 13:13:36. Your new balance: 8,080 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-09-24 18:37:52. Message from debit receiver: ITEC Pay. Your new balance:1180 RWF. Fee was 0 RWF. Financial Transaction Id: 15874896437. External Transaction Id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*EN#
+TxId: 79921659205. Your payment of 4,000 RWF to Alex Doe 42875 has been completed at 2024-09-24 20:55:24. Your new balance: 17,180 RWF. Fee was 0 RWF.
+TxId: 94510396651. Your payment of 900 RWF to Linda Green 65441 has been completed at 2024-09-25 02:00:43. Your new balance: 10,930 RWF. Fee was 0 RWF.
+TxId: 55341611618. Your payment of 4,700 RWF to Alex Doe 13898 has been completed at 2024-09-25 14:44:43. Your new balance: 6,230 RWF. Fee was 0 RWF.
+TxId: 78265898230. Your payment of 1,000 RWF to Robert Brown 53148 has been completed at 2024-09-25 20:33:21. Your new balance: 130 RWF. Fee was 0 RWF.
+TxId: 51862934722. Your payment of 2,500 RWF to Samuel Carter 33261 has been completed at 2024-09-26 17:18:56. Your new balance: 29,360 RWF. Fee was 0 RWF.
+TxId: 91477230630. Your payment of 40,000 RWF to Samuel Carter 26001 has been completed at 2024-09-26 19:45:03. Your new balance: 9,360 RWF. Fee was 0 RWF.
+TxId: 98785716472. Your payment of 2,500 RWF to Samuel Carter 27736 has been completed at 2024-09-26 20:53:55. Your new balance: 6,860 RWF. Fee was 0 RWF.
+TxId: 60169531477. Your payment of 2,000 RWF to Robert Brown 74029 has been completed at 2024-09-26 21:14:39. Your new balance: 4,860 RWF. Fee was 0 RWF.
+TxId: 18182747024. Your payment of 300 RWF to Samuel Carter 94344 has been completed at 2024-09-26 21:16:44. Your new balance: 4,560 RWF. Fee was 0 RWF.
+TxId: 33085803334. Your payment of 3,000 RWF to Robert Brown 77907 has been completed at 2024-09-27 13:47:04. Your new balance: 1,560 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-28 13:16:02. Message from debit receiver: . Your new balance:11310 RWF. Fee was 0 RWF. Financial Transaction Id: 15930732191. External Transaction Id: 17275220792115073.*EN#
+*164*S*Y'ello,A transaction of 13000 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-09-28 22:56:50. Message from debit receiver: 1745596172755699358074193. Your new balance:43210 RWF. Fee was 0 RWF. Financial Transaction Id: 15940915096. External Transaction Id: E42831629KPY1727556993.*EN#
+TxId: 39214139430. Your payment of 10,000 RWF to Alex Doe 38961 has been completed at 2024-09-29 11:42:19. Your new balance: 33,210 RWF. Fee was 0 RWF.
+TxId: 90902383993. Your payment of 2,500 RWF to Jane Smith 53237 has been completed at 2024-09-29 22:39:32. Your new balance: 5,260 RWF. Fee was 0 RWF.
+TxId: 10659235728. Your payment of 12,100 RWF to Linda Green 76028 has been completed at 2024-09-30 07:31:31. Your new balance: 23,160 RWF. Fee was 0 RWF.
+TxId: 39663280584. Your payment of 3,300 RWF to Jane Smith 32608 has been completed at 2024-10-01 13:31:33. Your new balance: 19,610 RWF. Fee was 0 RWF.
+TxId: 81871013229. Your payment of 50,000 RWF to Jane Smith 17271 has been completed at 2024-10-01 17:25:41. Your new balance: 19,610 RWF. Fee was 0 RWF.
+TxId: 44506228015. Your payment of 1,000 RWF to Alex Doe 16975 has been completed at 2024-10-01 19:22:32. Your new balance: 18,610 RWF. Fee was 0 RWF.
+TxId: 83067244660. Your payment of 2,500 RWF to Linda Green 84722 has been completed at 2024-10-02 14:31:02. Your new balance: 16,110 RWF. Fee was 0 RWF.
+TxId: 20546538645. Your payment of 1,500 RWF to Alex Doe 23231 has been completed at 2024-10-02 18:46:26. Your new balance: 107,862 RWF. Fee was 0 RWF.
+TxId: 35245414129. Your payment of 11,000 RWF to Samuel Carter 36197 has been completed at 2024-10-02 21:26:50. Your new balance: 58,612 RWF. Fee was 0 RWF.
+TxId: 32286024625. Your payment of 5,000 RWF to Linda Green 96457 has been completed at 2024-10-03 16:49:59. Your new balance: 4,012 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 25000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-03 17:49:18. Message from debit receiver: 881003055321. Your new balance:4012 RWF. Fee was 0 RWF. Financial Transaction Id: 16030998575. External Transaction Id: 881003055321.*EN#
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-04 08:27:12. Message from debit receiver: . Your new balance:3512 RWF. Fee was 0 RWF. Financial Transaction Id: 16040688508. External Transaction Id: 17280230723010910.*EN#
+TxId: 90308181228. Your payment of 3,500 RWF to Jane Smith 60129 has been completed at 2024-10-04 13:03:17. Your new balance: 12 RWF. Fee was 0 RWF.
+TxId: 18477975094. Your payment of 700 RWF to Samuel Carter 49614 has been completed at 2024-10-04 19:45:12. Your new balance: 19,312 RWF. Fee was 0 RWF.
+TxId: 85146339192. Your payment of 11,000 RWF to Jane Smith 29099 has been completed at 2024-10-04 22:12:20. Your new balance: 8,312 RWF. Fee was 0 RWF.
+TxId: 82638981577. Your payment of 3,000 RWF to Linda Green 41515 has been completed at 2024-10-05 17:00:07. Your new balance: 1,962 RWF. Fee was 0 RWF.
+TxId: 24060951845. Your payment of 20,000 RWF to Alex Doe 71300 has been completed at 2024-10-05 17:11:22. Your new balance: 31,962 RWF. Fee was 0 RWF.
+TxId: 48231394901. Your payment of 300 RWF to Samuel Carter 58485 has been completed at 2024-10-05 17:18:57. Your new balance: 31,662 RWF. Fee was 0 RWF.
+TxId: 77445681586. Your payment of 23,500 RWF to Linda Green 95616 has been completed at 2024-10-06 22:41:19. Your new balance: 9,912 RWF. Fee was 0 RWF.
+TxId: 22996639471. Your payment of 1,000 RWF to Samuel Carter 53959 has been completed at 2024-10-06 23:15:14. Your new balance: 8,912 RWF. Fee was 0 RWF.
+TxId: 89752753163. Your payment of 3,500 RWF to Samuel Carter 51917 has been completed at 2024-10-07 13:25:17. Your new balance: 7,312 RWF. Fee was 0 RWF.
+*143*S*Your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF has been reversed at 2024-10-07 14:37:00. Your new balance is 10312 RWF. .Thank you for using MTN MobileMoney.*EN#
+TxId: 43532820450. Your payment of 1,500 RWF to Robert Brown 43078 has been completed at 2024-10-07 19:33:48. Your new balance: 8,812 RWF. Fee was 0 RWF.
+TxId: 58196919753. Your payment of 1,000 RWF to Jane Smith 58193 has been completed at 2024-10-07 19:34:32. Your new balance: 7,812 RWF. Fee was 0 RWF.
+TxId: 37468876171. Your payment of 9,000 RWF to Alex Doe 39002 has been completed at 2024-10-07 22:07:02. Your new balance: 1,812 RWF. Fee was 0 RWF.
+TxId: 88108852426. Your payment of 4,500 RWF to Linda Green 81102 has been completed at 2024-10-08 18:08:39. Your new balance: 45,212 RWF. Fee was 0 RWF.
+TxId: 31762210000. Your payment of 40,000 RWF to Jane Smith 80896 has been completed at 2024-10-08 18:17:20. Your new balance: 5,212 RWF. Fee was 0 RWF.
+TxId: 13398096034. Your payment of 9,000 RWF to Alex Doe 41138 has been completed at 2024-10-08 20:48:25. Your new balance: 3,962 RWF. Fee was 0 RWF.
+TxId: 67853860784. Your payment of 1,000 RWF to Linda Green 21555 has been completed at 2024-10-09 20:15:07. Your new balance: 2,962 RWF. Fee was 0 RWF.
+TxId: 59663284115. Your payment of 10,000 RWF to Jane Smith 78295 has been completed at 2024-10-09 22:27:15. Your new balance: 22,962 RWF. Fee was 0 RWF.
+TxId: 11340322119. Your payment of 2,500 RWF to Robert Brown 55356 has been completed at 2024-10-10 19:29:37. Your new balance: 145,705 RWF. Fee was 0 RWF.
+TxId: 53889847709. Your payment of 4,000 RWF to Robert Brown 12519 has been completed at 2024-10-11 13:51:00. Your new balance: 81,255 RWF. Fee was 0 RWF.
+*143*R*Y'ello, the transaction with amount 11600 RWF for ESICIA LTD with message: 1763055172864732058074359 failed at 2024-10-11 14:00:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+*164*S*Y'ello,A transaction of 11600 RWF by ESICIA LTD on your MOMO account was successfully completed at 2024-10-11 14:03:20. Message from debit receiver: 1763055172864803458074359RETRY. Your new balance:69655 RWF. Fee was 0 RWF. Financial Transaction Id: 16178728333. External Transaction Id: E43388184PYR1728648034.*EN#
+TxId: 77321308899. Your payment of 40,000 RWF to Robert Brown 97461 has been completed at 2024-10-11 16:23:38. Your new balance: 29,655 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-11 16:39:11. Message from debit receiver: . Your new balance:24655 RWF. Fee was 0 RWF. Financial Transaction Id: 16181431637. External Transaction Id: 17286575112418450.*EN#
+TxId: 79562421324. Your payment of 2,000 RWF to Robert Brown 71523 has been completed at 2024-10-11 18:02:18. Your new balance: 22,655 RWF. Fee was 0 RWF.
+TxId: 13398775256. Your payment of 2,000 RWF to Alex Doe 97941 has been completed at 2024-10-11 18:52:01. Your new balance: 20,655 RWF. Fee was 0 RWF.
+TxId: 83779362556. Your payment of 20,500 RWF to Robert Brown 98029 has been completed at 2024-10-12 17:59:04. Your new balance: 32,105 RWF. Fee was 0 RWF.
+TxId: 15010571728. Your payment of 1,000 RWF to Jane Smith 61914 has been completed at 2024-10-12 18:20:11. Your new balance: 31,105 RWF. Fee was 0 RWF.
+TxId: 69826234262. Your payment of 2,500 RWF to Samuel Carter 89824 has been completed at 2024-10-13 09:30:02. Your new balance: 28,605 RWF. Fee was 0 RWF.
+Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+*162*TxId:16211799078*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-10-13 09:37:49. Fee was 0 RWF. Your new balance: 25605 RWF . Message: - -. *EN#
+TxId: 64182407557. Your payment of 3,900 RWF to Samuel Carter 73206 has been completed at 2024-10-13 09:56:50. Your new balance: 21,705 RWF. Fee was 0 RWF.
+TxId: 22165640182. Your payment of 15,000 RWF to Jane Smith 29963 has been completed at 2024-10-13 13:16:08. Your new balance: 6,705 RWF. Fee was 0 RWF.
+TxId: 83014570594. Your payment of 10,000 RWF to Linda Green 36659 has been completed at 2024-10-14 11:35:27. Your new balance: 52,605 RWF. Fee was 0 RWF.
+TxId: 88832399279. Your payment of 10,000 RWF to Linda Green 70896 has been completed at 2024-10-14 19:50:29. Your new balance: 12,355 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-16 10:48:32. Message from debit receiver: . Your new balance:128151 RWF. Fee was 0 RWF. Financial Transaction Id: 16269196928. External Transaction Id: 17290684883032395.*EN#
+TxId: 52293280519. Your payment of 20,000 RWF to Linda Green 93041 has been completed at 2024-10-16 16:43:56. Your new balance: 108,151 RWF. Fee was 0 RWF.
+TxId: 38148168525. Your payment of 10,000 RWF to Alex Doe 90011 has been completed at 2024-10-16 19:55:32. Your new balance: 98,151 RWF. Fee was 0 RWF.
+TxId: 81760735419. Your payment of 7,000 RWF to Samuel Carter 55521 has been completed at 2024-10-16 19:57:15. Your new balance: 91,151 RWF. Fee was 0 RWF.
+TxId: 53606315017. Your payment of 13,800 RWF to Samuel Carter 21475 has been completed at 2024-10-16 22:35:33. Your new balance: 33,150 RWF. Fee was 0 RWF.
+TxId: 59905850736. Your payment of 3,500 RWF to Linda Green 85852 has been completed at 2024-10-17 13:54:52. Your new balance: 24,550 RWF. Fee was 0 RWF.
+TxId: 54242334327. Your payment of 1,000 RWF to Alex Doe 95294 has been completed at 2024-10-17 20:16:37. Your new balance: 13,450 RWF. Fee was 0 RWF.
+TxId: 88072671762. Your payment of 37,500 RWF to Samuel Carter 73641 has been completed at 2024-10-18 19:50:14. Your new balance: 16,250 RWF. Fee was 0 RWF.
+TxId: 45748335313. Your payment of 10,000 RWF to Samuel Carter 99589 has been completed at 2024-10-18 21:06:55. Your new balance: 6,250 RWF. Fee was 0 RWF.
+TxId: 59362114751. Your payment of 10,500 RWF to Jane Smith 54994 has been completed at 2024-10-19 11:41:35. Your new balance: 15,750 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-19 11:50:25. Message from debit receiver: 881019247301. Your new balance:10750 RWF. Fee was 0 RWF. Financial Transaction Id: 16327063889. External Transaction Id: 881019247301.*EN#
+TxId: 31169956538. Your payment of 10,750 RWF to Linda Green 95179 has been completed at 2024-10-20 01:07:14. Your new balance: 0 RWF. Fee was 0 RWF.
+TxId: 18750556052. Your payment of 600 RWF to Samuel Carter 57978 has been completed at 2024-10-20 19:54:03. Your new balance: 132,472 RWF. Fee was 0 RWF.
+TxId: 89091466523. Your payment of 2,200 RWF to Robert Brown 95098 has been completed at 2024-10-20 21:08:11. Your new balance: 120,272 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-20 21:07:16. Message from debit receiver: . Your new balance:122472 RWF. Fee was 0 RWF. Financial Transaction Id: 16356106165. External Transaction Id: 17294511812484189.*EN#
+TxId: 15223201812. Your payment of 15,500 RWF to Linda Green 79333 has been completed at 2024-10-21 11:39:26. Your new balance: 82,522 RWF. Fee was 0 RWF.
+TxId: 68316839601. Your payment of 1,000 RWF to Alex Doe 84251 has been completed at 2024-10-21 19:56:30. Your new balance: 81,522 RWF. Fee was 0 RWF.
+TxId: 76509859651. Your payment of 1,000 RWF to Samuel Carter 38134 has been completed at 2024-10-21 20:23:47. Your new balance: 80,522 RWF. Fee was 0 RWF.
+TxId: 93902902643. Your payment of 2,500 RWF to Samuel Carter 49012 has been completed at 2024-10-21 20:54:18. Your new balance: 78,022 RWF. Fee was 0 RWF.
+TxId: 75970255069. Your payment of 7,000 RWF to Linda Green 69696 has been completed at 2024-10-21 22:07:58. Your new balance: 71,022 RWF. Fee was 0 RWF.
+TxId: 43332595746. Your payment of 15,000 RWF to Samuel Carter 53208 has been completed at 2024-10-21 23:27:40. Your new balance: 56,022 RWF. Fee was 0 RWF.
+TxId: 83978461332. Your payment of 500 RWF to Linda Green 95541 has been completed at 2024-10-22 20:39:05. Your new balance: 55,522 RWF. Fee was 0 RWF.
+TxId: 66774240369. Your payment of 1,000 RWF to Jane Smith 58118 has been completed at 2024-10-22 21:06:54. Your new balance: 54,522 RWF. Fee was 0 RWF.
+TxId: 18510016190. Your payment of 3,000 RWF to Alex Doe 13830 has been completed at 2024-10-22 21:10:35. Your new balance: 51,522 RWF. Fee was 0 RWF.
+TxId: 11365396250. Your payment of 4,000 RWF to Linda Green 63600 has been completed at 2024-10-22 21:22:14. Your new balance: 47,522 RWF. Fee was 0 RWF.
+TxId: 14589884783. Your payment of 16,500 RWF to Linda Green 94096 has been completed at 2024-10-22 23:12:14. Your new balance: 31,022 RWF. Fee was 0 RWF.
+You have transferred 50000 RWF to Linda Green (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 09:59:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16400028923.
+You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 16:43:03. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16406794518.
+TxId: 95337556627. Your payment of 4,500 RWF to Linda Green 44588 has been completed at 2024-10-23 18:41:58. Your new balance: 49,072 RWF. Fee was 0 RWF.
+TxId: 44650869478. Your payment of 11,800 RWF to Jane Smith 44671 has been completed at 2024-10-23 23:43:07. Your new balance: 21,922 RWF. Fee was 0 RWF.
+TxId: 30398814444. Your payment of 1,200 RWF to Jane Smith 74010 has been completed at 2024-10-23 23:43:59. Your new balance: 20,722 RWF. Fee was 0 RWF.
+TxId: 31630879946. Your payment of 3,500 RWF to Alex Doe 98340 has been completed at 2024-10-24 13:32:15. Your new balance: 17,222 RWF. Fee was 0 RWF.
+TxId: 87927056212. Your payment of 1,000 RWF to Alex Doe 58576 has been completed at 2024-10-24 16:34:03. Your new balance: 10,122 RWF. Fee was 0 RWF.
+TxId: 24961498802. Your payment of 500 RWF to Robert Brown 92471 has been completed at 2024-10-24 18:45:47. Your new balance: 9,102 RWF. Fee was 0 RWF.
+TxId: 96078845608. Your payment of 1,000 RWF to Jane Smith 21336 has been completed at 2024-10-24 19:46:31. Your new balance: 8,102 RWF. Fee was 0 RWF.
+TxId: 27937789255. Your payment of 1,200 RWF to Samuel Carter 74056 has been completed at 2024-10-24 20:05:15. Your new balance: 6,902 RWF. Fee was 0 RWF.
+TxId: 35915635698. Your payment of 5,000 RWF to Samuel Carter 33376 has been completed at 2024-10-24 20:06:29. Your new balance: 1,902 RWF. Fee was 0 RWF.
+You have transferred 20000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 00:33:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16433471329.
+TxId: 87101311151. Your payment of 3,000 RWF to Samuel Carter 41674 has been completed at 2024-10-25 00:33:30. Your new balance: 18,382 RWF. Fee was 0 RWF.
+You have transferred 20000 RWF to Samuel Carter (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 05:48:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16434717507.
+TxId: 63847414444. Your payment of 22,000 RWF to Samuel Carter 43558 has been completed at 2024-10-25 23:11:39. Your new balance: 932 RWF. Fee was 0 RWF.
+You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-26 21:52:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16471170286.
+TxId: 53085798464. Your payment of 8,000 RWF to Jane Smith 99510 has been completed at 2024-10-26 21:52:48. Your new balance: 42,932 RWF. Fee was 0 RWF.
+TxId: 12026466377. Your payment of 1,500 RWF to Jane Smith 96105 has been completed at 2024-10-26 21:57:25. Your new balance: 41,432 RWF. Fee was 0 RWF.
+TxId: 84906022239. Your payment of 10,000 RWF to Linda Green 92330 has been completed at 2024-10-27 14:58:18. Your new balance: 29,832 RWF. Fee was 0 RWF.
+TxId: 63406615894. Your payment of 1,200 RWF to Linda Green 42626 has been completed at 2024-10-28 19:51:41. Your new balance: 8,282 RWF. Fee was 0 RWF.
+TxId: 79191608492. Your payment of 500 RWF to Jane Smith 41853 has been completed at 2024-10-28 21:04:17. Your new balance: 7,782 RWF. Fee was 0 RWF.
+TxId: 97616156692. Your payment of 13,500 RWF to Jane Smith 89857 has been completed at 2024-10-28 22:57:02. Your new balance: 44,282 RWF. Fee was 0 RWF.
+TxId: 76120536586. Your payment of 8,000 RWF to Alex Doe 68678 has been completed at 2024-10-29 13:18:05. Your new balance: 36,282 RWF. Fee was 0 RWF.
+Your payment of 8000 RWF to Cynthia UMUGANWA (250790698110) has been completed at 2024-10-29 13:18:05. Message: . Your new balance: 36282 RWF. Fee was 0 RWF. The amount was subject to a discount of 0 RWF and coupons worth . Financial Transaction Id: 16519345888. External Transaction Id: -.
+Your payment of 8400 RWF to Dieudonne MUGIRANEZA (250789447277) has been completed at 2024-10-29 23:54:40. Message: . Your new balance: 16612 RWF. Fee was 0 RWF. The amount was subject to a discount of 0 RWF and coupons worth . Financial Transaction Id: 16530676798. External Transaction Id: -.
+TxId: 87234068654. Your payment of 8,400 RWF to Alex Doe 81429 has been completed at 2024-10-29 23:54:40. Your new balance: 16,612 RWF. Fee was 0 RWF.
+TxId: 81838722855. Your payment of 4,000 RWF to Linda Green 64373 has been completed at 2024-10-30 17:33:23. Your new balance: 12,612 RWF. Fee was 0 RWF.
+TxId: 63710134665. Your payment of 1,000 RWF to Jane Smith 73638 has been completed at 2024-10-30 20:51:16. Your new balance: 11,612 RWF. Fee was 0 RWF.
+TxId: 22834010377. Your payment of 11,000 RWF to Alex Doe 28569 has been completed at 2024-10-30 22:18:11. Your new balance: 612 RWF. Fee was 0 RWF.
+TxId: 28043130256. Your payment of 9,000 RWF to Samuel Carter 40783 has been completed at 2024-10-30 23:47:42. Your new balance: 36,612 RWF. Fee was 0 RWF.
+TxId: 19221386945. Your payment of 5,700 RWF to Samuel Carter 88993 has been completed at 2024-10-31 18:21:53. Your new balance: 7,142 RWF. Fee was 0 RWF.
+TxId: 95154102352. Your payment of 1,000 RWF to Samuel Carter 91279 has been completed at 2024-10-31 20:57:25. Your new balance: 6,142 RWF. Fee was 0 RWF.
+TxId: 85450886922. Your payment of 1,000 RWF to Jane Smith 71611 has been completed at 2024-10-31 21:34:55. Your new balance: 24,892 RWF. Fee was 0 RWF.
+TxId: 91900163647. Your payment of 20,250 RWF to Linda Green 87167 has been completed at 2024-10-31 23:52:19. Your new balance: 4,122 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-11-02 00:47:43. Message from debit receiver: 250795963036. Your new balance:14372 RWF. Fee was 0 RWF. Financial Transaction Id: 16591010120. External Transaction Id: 194832520241101224717179801.*EN#
+TxId: 27925177838. Your payment of 3,000 RWF to Linda Green 58812 has been completed at 2024-11-02 01:24:44. Your new balance: 11,372 RWF. Fee was 0 RWF.
+TxId: 32029523207. Your payment of 4,800 RWF to Linda Green 92839 has been completed at 2024-11-02 11:18:38. Your new balance: 3,472 RWF. Fee was 0 RWF.
+TxId: 31684502107. Your payment of 6,500 RWF to Linda Green 73815 has been completed at 2024-11-02 14:06:34. Your new balance: 16,972 RWF. Fee was 0 RWF.
+TxId: 98072616886. Your payment of 1,500 RWF to Jane Smith 10418 has been completed at 2024-11-02 15:47:36. Your new balance: 14,452 RWF. Fee was 0 RWF.
+TxId: 74940646559. Your payment of 15,000 RWF to Alex Doe 13113 has been completed at 2024-11-03 14:53:16. Your new balance: 13,332 RWF. Fee was 0 RWF.
+TxId: 76489114849. Your payment of 1,500 RWF to Robert Brown 83268 has been completed at 2024-11-04 10:08:45. Your new balance: 9,712 RWF. Fee was 0 RWF.
+TxId: 90771619158. Your payment of 1,500 RWF to Samuel Carter 28573 has been completed at 2024-11-04 17:15:50. Your new balance: 8,212 RWF. Fee was 0 RWF.
+TxId: 96847302038. Your payment of 3,500 RWF to Alex Doe 27166 has been completed at 2024-11-05 13:30:29. Your new balance: 14,212 RWF. Fee was 0 RWF.
+TxId: 52306931698. Your payment of 9,300 RWF to Linda Green 20136 has been completed at 2024-11-05 18:19:25. Your new balance: 4,912 RWF. Fee was 0 RWF.
+TxId: 84422936261. Your payment of 500 RWF to Alex Doe 30015 has been completed at 2024-11-05 20:01:08. Your new balance: 4,412 RWF. Fee was 0 RWF.
+TxId: 80762432902. Your payment of 1,000 RWF to Robert Brown 38967 has been completed at 2024-11-05 21:06:39. Your new balance: 3,412 RWF. Fee was 0 RWF.
+TxId: 12941586465. Your payment of 1,000 RWF to Robert Brown 53484 has been completed at 2024-11-05 21:48:24. Your new balance: 2,412 RWF. Fee was 0 RWF.
+TxId: 32932185216. Your payment of 2,200 RWF to Jane Smith 78202 has been completed at 2024-11-05 21:50:55. Your new balance: 212 RWF. Fee was 0 RWF.
+You have transferred 10000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-11-05 21:55:02. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16664315282.
+TxId: 22620644869. Your payment of 1,400 RWF to Alex Doe 98278 has been completed at 2024-11-05 21:55:35. Your new balance: 8,812 RWF. Fee was 0 RWF.
+TxId: 12285281137. Your payment of 3,300 RWF to Linda Green 25501 has been completed at 2024-11-06 13:12:08. Your new balance: 64,117 RWF. Fee was 0 RWF.
+TxId: 72077076399. Your payment of 500 RWF to Samuel Carter 87234 has been completed at 2024-11-06 19:14:06. Your new balance: 51,367 RWF. Fee was 0 RWF.
+TxId: 17695655335. Your payment of 500 RWF to Samuel Carter 34028 has been completed at 2024-11-06 20:39:02. Your new balance: 50,867 RWF. Fee was 0 RWF.
+TxId: 47323864863. Your payment of 4,700 RWF to Robert Brown 44418 has been completed at 2024-11-06 20:46:57. Your new balance: 46,167 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-06 22:27:32. Message from debit receiver: . Your new balance:41167 RWF. Fee was 0 RWF. Financial Transaction Id: 16684572153. External Transaction Id: 17309248153046681.*EN#
+TxId: 51185805957. Your payment of 1,000 RWF to Alex Doe 37459 has been completed at 2024-11-07 14:14:35. Your new balance: 36,567 RWF. Fee was 0 RWF.
+TxId: 64693883303. Your payment of 500 RWF to Jane Smith 28704 has been completed at 2024-11-07 21:31:21. Your new balance: 35,547 RWF. Fee was 0 RWF.
+TxId: 32239374076. Your payment of 4,600 RWF to Samuel Carter 26095 has been completed at 2024-11-07 23:18:28. Your new balance: 30,947 RWF. Fee was 0 RWF.
+TxId: 41292933584. Your payment of 40,000 RWF to Samuel Carter 71943 has been completed at 2024-11-08 10:01:11. Your new balance: 20,947 RWF. Fee was 0 RWF.
+TxId: 57030093247. Your payment of 600 RWF to Linda Green 98470 has been completed at 2024-11-08 13:31:49. Your new balance: 20,347 RWF. Fee was 0 RWF.
+TxId: 68677426758. Your payment of 1,600 RWF to Robert Brown 20066 has been completed at 2024-11-08 18:51:59. Your new balance: 3,497 RWF. Fee was 0 RWF.
+TxId: 29539835456. Your payment of 10,000 RWF to Linda Green 71899 has been completed at 2024-11-08 21:33:58. Your new balance: 33,397 RWF. Fee was 0 RWF.
+TxId: 53740527535. Your payment of 26,000 RWF to Samuel Carter 89478 has been completed at 2024-11-09 00:27:28. Your new balance: 6,377 RWF. Fee was 0 RWF.
+TxId: 55287216793. Your payment of 1,200 RWF to Samuel Carter 62378 has been completed at 2024-11-09 07:14:27. Your new balance: 4,157 RWF. Fee was 0 RWF.
+TxId: 61476126603. Your payment of 2,000 RWF to Linda Green 92801 has been completed at 2024-11-09 07:14:59. Your new balance: 2,157 RWF. Fee was 0 RWF.
+TxId: 23756291424. Your payment of 17,000 RWF to Jane Smith 93184 has been completed at 2024-11-09 20:14:00. Your new balance: 51,842 RWF. Fee was 0 RWF.
+TxId: 79800269407. Your payment of 78,000 RWF to Alex Doe 35226 has been completed at 2024-11-10 01:03:57. Your new balance: 622 RWF. Fee was 0 RWF.
+TxId: 62769441387. Your payment of 25,900 RWF to Jane Smith 78110 has been completed at 2024-11-11 18:51:01. Your new balance: 4,722 RWF. Fee was 0 RWF.
+TxId: 57206973697. Your payment of 500 RWF to Linda Green 18596 has been completed at 2024-11-11 19:18:14. Your new balance: 4,222 RWF. Fee was 0 RWF.
+TxId: 67320713042. Your payment of 7,900 RWF to Jane Smith 23165 has been completed at 2024-11-11 19:50:46. Your new balance: 1,322 RWF. Fee was 0 RWF.
+TxId: 56966147157. Your payment of 200 RWF to Samuel Carter 64964 has been completed at 2024-11-11 19:54:39. Your new balance: 1,122 RWF. Fee was 0 RWF.
+TxId: 96703530751. Your payment of 3,000 RWF to Jane Smith 84743 has been completed at 2024-11-12 13:31:51. Your new balance: 2,022 RWF. Fee was 0 RWF.
+TxId: 50100917269. Your payment of 500 RWF to Alex Doe 82575 has been completed at 2024-11-12 19:34:20. Your new balance: 1,522 RWF. Fee was 0 RWF.
+TxId: 62656383062. Your payment of 500 RWF to Robert Brown 64685 has been completed at 2024-11-12 20:26:54. Your new balance: 1,022 RWF. Fee was 0 RWF.
+TxId: 94631078749. Your payment of 3,000 RWF to Alex Doe 81659 has been completed at 2024-11-12 21:43:48. Your new balance: 8,022 RWF. Fee was 0 RWF.
+*143*TxId:16803066185*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:47:47. Message: - -. *EN#
+*143*TxId:16803076383*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:49:39. Message: - -. *EN#
+*143*R*Y'ello, the transaction with amount 5000 RWF for Data Bundle MTN with message:  failed at 2024-11-12 23:58:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+TxId: 76861068912. Your payment of 16,000 RWF to Robert Brown 36138 has been completed at 2024-11-13 00:00:20. Your new balance: 12,022 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-13 13:13:44. Message from debit receiver: . Your new balance:7022 RWF. Fee was 0 RWF. Financial Transaction Id: 16811450681. External Transaction Id: 17314963852425107.*EN#
+Yello!Umaze kugura 2000Frw=1000Mins+50SMS igura 2,000 RWF
+*162*TxId:16813007600*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-11-13 14:44:42. Fee was 0 RWF. Your new balance: 5022 RWF . Message: - -. *EN#
+TxId: 68167518530. Your payment of 2,500 RWF to Robert Brown 66760 has been completed at 2024-11-13 14:58:17. Your new balance: 2,522 RWF. Fee was 0 RWF.
+TxId: 53670708085. Your payment of 4,000 RWF to Robert Brown 50887 has been completed at 2024-11-13 23:44:37. Your new balance: 7,432 RWF. Fee was 0 RWF.
+TxId: 16283271112. Your payment of 30,000 RWF to Robert Brown 34704 has been completed at 2024-11-14 20:38:55. Your new balance: 24,022 RWF. Fee was 0 RWF.
+TxId: 77064133585. Your payment of 10,000 RWF to Jane Smith 97256 has been completed at 2024-11-14 22:01:37. Your new balance: 14,022 RWF. Fee was 0 RWF.
+TxId: 54178902109. Your payment of 800 RWF to Alex Doe 24330 has been completed at 2024-11-15 15:16:04. Your new balance: 8,122 RWF. Fee was 0 RWF.
+TxId: 54792622020. Your payment of 1,000 RWF to Alex Doe 81580 has been completed at 2024-11-15 18:14:03. Your new balance: 7,122 RWF. Fee was 0 RWF.
+TxId: 49452512289. Your payment of 600 RWF to Robert Brown 58171 has been completed at 2024-11-15 18:22:24. Your new balance: 6,522 RWF. Fee was 0 RWF.
+TxId: 82479923721. Your payment of 5,700 RWF to Jane Smith 79703 has been completed at 2024-11-15 22:12:43. Your new balance: 822 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-16 13:14:55. Message from debit receiver: . Your new balance:10202 RWF. Fee was 0 RWF. Financial Transaction Id: 16870426837. External Transaction Id: 17317556402493740.*EN#
+TxId: 63834300936. Your payment of 6,300 RWF to Alex Doe 59540 has been completed at 2024-11-16 17:27:14. Your new balance: 3,902 RWF. Fee was 0 RWF.
+TxId: 75381717541. Your payment of 2,500 RWF to Linda Green 53212 has been completed at 2024-11-16 18:51:06. Your new balance: 1,402 RWF. Fee was 0 RWF.
+TxId: 19451958132. Your payment of 40,000 RWF to Alex Doe 45298 has been completed at 2024-11-17 13:12:49. Your new balance: 95,748 RWF. Fee was 0 RWF.
+TxId: 70271999796. Your payment of 4,500 RWF to Alex Doe 64524 has been completed at 2024-11-17 14:05:44. Your new balance: 91,248 RWF. Fee was 0 RWF.
+TxId: 50182287789. Your payment of 25,000 RWF to Alex Doe 70566 has been completed at 2024-11-17 23:25:06. Your new balance: 64,648 RWF. Fee was 0 RWF.
+TxId: 52735784344. Your payment of 4,500 RWF to Alex Doe 92263 has been completed at 2024-11-18 14:18:29. Your new balance: 60,148 RWF. Fee was 0 RWF.
+TxId: 69693617235. Your payment of 600 RWF to Samuel Carter 81032 has been completed at 2024-11-18 16:19:41. Your new balance: 19,298 RWF. Fee was 0 RWF.
+TxId: 15146134181. Your payment of 9,300 RWF to Jane Smith 63456 has been completed at 2024-11-18 18:52:11. Your new balance: 114,186 RWF. Fee was 0 RWF.
+TxId: 91836203944. Your payment of 2,000 RWF to Alex Doe 41036 has been completed at 2024-11-18 20:16:01. Your new balance: 112,186 RWF. Fee was 0 RWF.
+TxId: 35247235522. Your payment of 6,000 RWF to Jane Smith 28861 has been completed at 2024-11-19 22:40:57. Your new balance: 75,236 RWF. Fee was 0 RWF.
+TxId: 51960195659. Your payment of 40,000 RWF to Jane Smith 64793 has been completed at 2024-11-20 12:16:36. Your new balance: 32,636 RWF. Fee was 0 RWF.
+TxId: 51637767958. Your payment of 1,000 RWF to Robert Brown 59828 has been completed at 2024-11-20 18:16:27. Your new balance: 21,536 RWF. Fee was 0 RWF.
+TxId: 63832588568. Your payment of 18,000 RWF to Robert Brown 19929 has been completed at 2024-11-20 23:06:50. Your new balance: 3,536 RWF. Fee was 0 RWF.
+TxId: 17739493764. Your payment of 10,000 RWF to Jane Smith 74242 has been completed at 2024-11-21 11:51:48. Your new balance: 12,167 RWF. Fee was 0 RWF.
+TxId: 58201924130. Your payment of 4,000 RWF to Robert Brown 23131 has been completed at 2024-11-21 20:49:29. Your new balance: 967 RWF. Fee was 0 RWF.
+TxId: 36782365869. Your payment of 10,000 RWF to Samuel Carter 91156 has been completed at 2024-11-21 21:14:02. Your new balance: 125,435 RWF. Fee was 0 RWF.
+TxId: 43160125858. Your payment of 23,000 RWF to Robert Brown 34217 has been completed at 2024-11-21 22:28:34. Your new balance: 102,435 RWF. Fee was 0 RWF.
+TxId: 70636809967. Your payment of 78,000 RWF to Alex Doe 74053 has been completed at 2024-11-22 00:20:34. Your new balance: 24,435 RWF. Fee was 0 RWF.
+TxId: 44041838566. Your payment of 107,184 RWF to Alex Doe 91765 has been completed at 2024-11-22 15:01:35. Your new balance: 93,001 RWF. Fee was 0 RWF.
+TxId: 22997289029. Your payment of 2,000 RWF to Samuel Carter 54183 has been completed at 2024-11-22 16:15:48. Your new balance: 91,001 RWF. Fee was 0 RWF.
+TxId: 82106121513. Your payment of 1,500 RWF to Alex Doe 17945 has been completed at 2024-11-22 16:18:03. Your new balance: 89,501 RWF. Fee was 0 RWF.
+TxId: 10620670791. Your payment of 36,000 RWF to Jane Smith 67559 has been completed at 2024-11-22 23:38:10. Your new balance: 53,501 RWF. Fee was 0 RWF.
+You Abebe Chala CHEBUDIE (*********036) have via agent: Agent Sophia (250788999999), withdrawn 50000 RWF from your mobile money account: 36521838 at 2024-11-23 13:23:44 and you can now collect your money in cash. Your new balance: 2401 RWF. Fee paid: 1100 RWF. Message from agent: 1. Financial Transaction Id: 17006777609.
+You Abebe Chala CHEBUDIE (*********036) have via agent: Agent John (250788999999), withdrawn 24000 RWF from your mobile money account: 36521838 at 2024-11-23 14:09:27 and you can now collect your money in cash. Your new balance: 61892 RWF. Fee paid: 600 RWF. Message from agent: 1. Financial Transaction Id: 17007580507.
+TxId: 35896509195. Your payment of 41,000 RWF to Robert Brown 65386 has been completed at 2024-11-24 12:21:25. Your new balance: 25,922 RWF. Fee was 0 RWF.
+TxId: 84035130850. Your payment of 1,600 RWF to Alex Doe 41364 has been completed at 2024-11-24 13:33:00. Your new balance: 24,322 RWF. Fee was 0 RWF.
+TxId: 96504237860. Your payment of 15,500 RWF to Samuel Carter 62070 has been completed at 2024-11-24 15:31:44. Your new balance: 8,822 RWF. Fee was 0 RWF.
+TxId: 78289351585. Your payment of 500 RWF to Jane Smith 45265 has been completed at 2024-11-24 15:39:36. Your new balance: 8,322 RWF. Fee was 0 RWF.
+TxId: 72378502864. Your payment of 1,500 RWF to Robert Brown 83466 has been completed at 2024-11-24 16:49:19. Your new balance: 6,822 RWF. Fee was 0 RWF.
+TxId: 48478800335. Your payment of 1,000 RWF to Linda Green 88347 has been completed at 2024-11-25 09:34:45. Your new balance: 5,822 RWF. Fee was 0 RWF.
+TxId: 55816563993. Your payment of 7,000 RWF to Alex Doe 74025 has been completed at 2024-11-25 15:48:13. Your new balance: 8,822 RWF. Fee was 0 RWF.
+TxId: 71214421293. Your payment of 5,300 RWF to Linda Green 76916 has been completed at 2024-11-25 19:51:37. Your new balance: 3,522 RWF. Fee was 0 RWF.
+TxId: 48536966202. Your payment of 8,000 RWF to Linda Green 58734 has been completed at 2024-11-26 13:42:26. Your new balance: 23,172 RWF. Fee was 0 RWF.
+TxId: 38897384275. Your payment of 2,500 RWF to Linda Green 64580 has been completed at 2024-11-26 20:46:38. Your new balance: 20,152 RWF. Fee was 0 RWF.
+TxId: 42838068588. Your payment of 1,000 RWF to Jane Smith 18325 has been completed at 2024-11-26 21:19:18. Your new balance: 19,152 RWF. Fee was 0 RWF.
+TxId: 39305056580. Your payment of 3,600 RWF to Alex Doe 44482 has been completed at 2024-11-26 21:23:28. Your new balance: 15,552 RWF. Fee was 0 RWF.
+TxId: 23077076861. Your payment of 3,500 RWF to Samuel Carter 16167 has been completed at 2024-11-27 13:36:29. Your new balance: 26,052 RWF. Fee was 0 RWF.
+TxId: 66106452523. Your payment of 4,500 RWF to Alex Doe 66311 has been completed at 2024-11-27 18:47:13. Your new balance: 19,452 RWF. Fee was 0 RWF.
+TxId: 20585797761. Your payment of 14,000 RWF to Alex Doe 91714 has been completed at 2024-11-27 21:26:50. Your new balance: 5,452 RWF. Fee was 0 RWF.
+TxId: 48062023691. Your payment of 1,000 RWF to Robert Brown 97308 has been completed at 2024-11-28 20:53:02. Your new balance: 47,352 RWF. Fee was 0 RWF.
+TxId: 56257770091. Your payment of 11,500 RWF to Alex Doe 35724 has been completed at 2024-11-28 23:13:45. Your new balance: 35,852 RWF. Fee was 0 RWF.
+TxId: 21855529824. Your payment of 3,500 RWF to Alex Doe 86590 has been completed at 2024-11-29 13:42:26. Your new balance: 1,712 RWF. Fee was 0 RWF.
+TxId: 35022569513. Your payment of 43,700 RWF to Samuel Carter 90805 has been completed at 2024-11-29 23:15:07. Your new balance: 8,012 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-30 12:48:40. Message from debit receiver: . Your new balance:12012 RWF. Fee was 0 RWF. Financial Transaction Id: 17146971568. External Transaction Id: 17329636532769188.*EN#
+TxId: 89671501317. Your payment of 25,100 RWF to Jane Smith 75635 has been completed at 2024-11-30 14:22:31. Your new balance: 85,892 RWF. Fee was 0 RWF.
+TxId: 11135974601. Your payment of 6,200 RWF to Alex Doe 97609 has been completed at 2024-11-30 14:24:58. Your new balance: 79,692 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-11-30 14:39:06. Message from debit receiver: ITEC Pay. Your new balance:79492 RWF. Fee was 0 RWF. Financial Transaction Id: 17149096701. External Transaction Id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*EN#
+TxId: 21899972101. Your payment of 208,750 RWF to Linda Green 54562 has been completed at 2024-11-30 16:35:00. Your new balance: 70,742 RWF. Fee was 0 RWF.
+TxId: 41127800959. Your payment of 16,000 RWF to Alex Doe 35478 has been completed at 2024-11-30 18:47:35. Your new balance: 49,042 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-02 16:22:35. Message from debit receiver: ITEC Pay. Your new balance:122044 RWF. Fee was 0 RWF. Financial Transaction Id: 17192081844. External Transaction Id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*EN#
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-02 18:12:28. Message from debit receiver: . Your new balance:103944 RWF. Fee was 0 RWF. Financial Transaction Id: 17194680435. External Transaction Id: 17331559272498010.*EN#
+TxId: 46181498529. Your payment of 20,000 RWF to Linda Green 37994 has been completed at 2024-12-02 18:58:15. Your new balance: 83,944 RWF. Fee was 0 RWF.
+TxId: 39367315432. Your payment of 2,500 RWF to Linda Green 57210 has been completed at 2024-12-02 19:03:15. Your new balance: 80,424 RWF. Fee was 0 RWF.
+TxId: 54832853783. Your payment of 800 RWF to Robert Brown 67564 has been completed at 2024-12-02 19:27:59. Your new balance: 79,624 RWF. Fee was 0 RWF.
+TxId: 49470186297. Your payment of 20,000 RWF to Jane Smith 15356 has been completed at 2024-12-02 21:27:24. Your new balance: 59,624 RWF. Fee was 0 RWF.
+TxId: 58399013847. Your payment of 40,000 RWF to Samuel Carter 87280 has been completed at 2024-12-03 11:40:54. Your new balance: 16,524 RWF. Fee was 0 RWF.
+TxId: 32104617984. Your payment of 3,500 RWF to Robert Brown 54734 has been completed at 2024-12-03 13:13:28. Your new balance: 2,924 RWF. Fee was 0 RWF.
+TxId: 70799475893. Your payment of 1,500 RWF to Robert Brown 52041 has been completed at 2024-12-03 19:16:28. Your new balance: 1,424 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 400 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-03 21:17:17. Message from debit receiver: ITEC Pay. Your new balance:20524 RWF. Fee was 0 RWF. Financial Transaction Id: 17219848993. External Transaction Id: 6ed516b1-6031-4395-9072-b895b96561e7.*EN#
+*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-04 18:17:17. Message from debit receiver: ITEC Pay. Your new balance:15124 RWF. Fee was 0 RWF. Financial Transaction Id: 17236283233. External Transaction Id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*EN#
+TxId: 47209547707. Your payment of 11,000 RWF to Alex Doe 43240 has been completed at 2024-12-04 22:57:54. Your new balance: 4,124 RWF. Fee was 0 RWF.
+TxId: 93029036539. Your payment of 3,500 RWF to Alex Doe 48412 has been completed at 2024-12-05 13:07:18. Your new balance: 624 RWF. Fee was 0 RWF.
+TxId: 99213721569. Your payment of 2,500 RWF to Jane Smith 54123 has been completed at 2024-12-05 19:47:02. Your new balance: 21,024 RWF. Fee was 0 RWF.
+TxId: 15669847093. Your payment of 11,000 RWF to Samuel Carter 58202 has been completed at 2024-12-05 22:01:40. Your new balance: 10,024 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 900 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-06 19:22:45. Message from debit receiver: ITEC Pay. Your new balance:9124 RWF. Fee was 0 RWF. Financial Transaction Id: 17278839589. External Transaction Id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*EN#
+TxId: 89862603085. Your payment of 27,600 RWF to Alex Doe 88215 has been completed at 2024-12-07 12:57:19. Your new balance: 31,524 RWF. Fee was 0 RWF.
+TxId: 33953051219. Your payment of 6,532 RWF to Alex Doe 16921 has been completed at 2024-12-07 17:40:00. Your new balance: 14,892 RWF. Fee was 0 RWF.
+TxId: 41885909187. Your payment of 1,000 RWF to Jane Smith 70736 has been completed at 2024-12-07 17:57:22. Your new balance: 13,892 RWF. Fee was 0 RWF.
+TxId: 95870127706. Your payment of 3,000 RWF to Linda Green 92842 has been completed at 2024-12-08 17:19:49. Your new balance: 792 RWF. Fee was 0 RWF.
+TxId: 37194978837. Your payment of 3,300 RWF to Linda Green 28118 has been completed at 2024-12-08 19:26:39. Your new balance: 47,492 RWF. Fee was 0 RWF.
+TxId: 71359588682. Your payment of 4,000 RWF to Samuel Carter 26869 has been completed at 2024-12-08 19:34:00. Your new balance: 43,492 RWF. Fee was 0 RWF.
+TxId: 37711041058. Your payment of 1,000 RWF to Alex Doe 47347 has been completed at 2024-12-09 21:31:46. Your new balance: 12,242 RWF. Fee was 0 RWF.
+TxId: 94221988885. Your payment of 17,500 RWF to Samuel Carter 67760 has been completed at 2024-12-09 23:44:06. Your new balance: 4,742 RWF. Fee was 0 RWF.
+TxId: 72231619373. Your payment of 1,000 RWF to Robert Brown 11851 has been completed at 2024-12-10 16:45:04. Your new balance: 6,142 RWF. Fee was 0 RWF.
+TxId: 66539582201. Your payment of 1,500 RWF to Alex Doe 88184 has been completed at 2024-12-10 20:03:46. Your new balance: 2,142 RWF. Fee was 0 RWF.
+TxId: 46343939313. Your payment of 2,000 RWF to Alex Doe 57668 has been completed at 2024-12-10 20:07:21. Your new balance: 142 RWF. Fee was 0 RWF.
+TxId: 86771299813. Your payment of 2,200 RWF to Samuel Carter 52782 has been completed at 2024-12-11 21:06:07. Your new balance: 40,642 RWF. Fee was 0 RWF.
+TxId: 45962008824. Your payment of 5,000 RWF to Robert Brown 82501 has been completed at 2024-12-12 20:44:37. Your new balance: 35,142 RWF. Fee was 0 RWF.
+Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+*162*TxId:17417124626*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-12-13 16:30:08. Fee was 0 RWF. Your new balance: 51892 RWF . Message: - -. *EN#
+TxId: 16767909062. Your payment of 9,500 RWF to Robert Brown 39839 has been completed at 2024-12-14 19:05:08. Your new balance: 151 RWF. Fee was 0 RWF.
+TxId: 84054827778. Your payment of 35,000 RWF to Jane Smith 15196 has been completed at 2024-12-14 23:19:53. Your new balance: 100,291 RWF. Fee was 0 RWF.
+TxId: 88725319180. Your payment of 20,500 RWF to Jane Smith 38526 has been completed at 2024-12-15 00:31:55. Your new balance: 79,791 RWF. Fee was 0 RWF.
+TxId: 77222748548. Your payment of 31,000 RWF to Samuel Carter 14652 has been completed at 2024-12-15 16:03:25. Your new balance: 32,991 RWF. Fee was 0 RWF.
+TxId: 17878271668. Your payment of 30,500 RWF to Linda Green 38097 has been completed at 2024-12-15 18:29:49. Your new balance: 24,291 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-16 08:58:31. Message from debit receiver: . Your new balance:10191 RWF. Fee was 0 RWF. Financial Transaction Id: 17469774285. External Transaction Id: 17343322613083864.*EN#
+TxId: 35727276550. Your payment of 25,300 RWF to Robert Brown 55886 has been completed at 2024-12-16 10:54:09. Your new balance: 4,891 RWF. Fee was 0 RWF.
+TxId: 34560987595. Your payment of 40,000 RWF to Alex Doe 35852 has been completed at 2024-12-17 08:54:16. Your new balance: 89,592 RWF. Fee was 0 RWF.
+TxId: 64898321363. Your payment of 11,750 RWF to Robert Brown 37855 has been completed at 2024-12-17 14:51:29. Your new balance: 77,842 RWF. Fee was 0 RWF.
+TxId: 76380162722. Your payment of 1,500 RWF to Alex Doe 48372 has been completed at 2024-12-17 14:58:14. Your new balance: 76,342 RWF. Fee was 0 RWF.
+TxId: 82617046769. Your payment of 400 RWF to Samuel Carter 92374 has been completed at 2024-12-18 21:50:20. Your new balance: 31,792 RWF. Fee was 0 RWF.
+TxId: 57516315891. Your payment of 3,500 RWF to Jane Smith 47279 has been completed at 2024-12-18 22:15:47. Your new balance: 28,292 RWF. Fee was 0 RWF.
+TxId: 60930083503. Your payment of 1,500 RWF to Robert Brown 43272 has been completed at 2024-12-19 12:21:23. Your new balance: 25,192 RWF. Fee was 0 RWF.
+TxId: 15885497602. Your payment of 8,000 RWF to Robert Brown 88769 has been completed at 2024-12-19 23:30:46. Your new balance: 1,992 RWF. Fee was 0 RWF.
+TxId: 19391512835. Your payment of 2,000 RWF to Jane Smith 33257 has been completed at 2024-12-20 11:59:37. Your new balance: 19,992 RWF. Fee was 0 RWF.
+TxId: 17798210186. Your payment of 2,200 RWF to Alex Doe 72364 has been completed at 2024-12-21 13:05:24. Your new balance: 4,342 RWF. Fee was 0 RWF.
+TxId: 94602885416. Your payment of 1,000 RWF to Linda Green 92343 has been completed at 2024-12-22 14:33:02. Your new balance: 35,822 RWF. Fee was 0 RWF.
+TxId: 40325712376. Your payment of 11,600 RWF to Alex Doe 80143 has been completed at 2024-12-22 14:46:17. Your new balance: 24,222 RWF. Fee was 0 RWF.
+TxId: 88953152367. Your payment of 8,250 RWF to Alex Doe 30069 has been completed at 2024-12-22 19:45:41. Your new balance: 15,972 RWF. Fee was 0 RWF.
+TxId: 70853207718. Your payment of 2,040 RWF to Jane Smith 68739 has been completed at 2024-12-22 19:49:17. Your new balance: 13,932 RWF. Fee was 0 RWF.
+TxId: 86091303323. Your payment of 4,000 RWF to Samuel Carter 61524 has been completed at 2024-12-23 00:18:52. Your new balance: 1,132 RWF. Fee was 0 RWF.
+TxId: 76924527055. Your payment of 15,000 RWF to Samuel Carter 72475 has been completed at 2024-12-23 00:42:39. Your new balance: 36,132 RWF. Fee was 0 RWF.
+TxId: 86101897464. Your payment of 4,000 RWF to Robert Brown 70207 has been completed at 2024-12-23 00:52:56. Your new balance: 32,132 RWF. Fee was 0 RWF.
+TxId: 26959913460. Your payment of 4,000 RWF to Jane Smith 18434 has been completed at 2024-12-23 01:57:08. Your new balance: 28,132 RWF. Fee was 0 RWF.
+TxId: 47314034059. Your payment of 40,000 RWF to Samuel Carter 43362 has been completed at 2024-12-23 18:09:47. Your new balance: 18,032 RWF. Fee was 0 RWF.
+TxId: 18331674229. Your payment of 2,500 RWF to Alex Doe 98062 has been completed at 2024-12-23 19:56:41. Your new balance: 15,532 RWF. Fee was 0 RWF.
+TxId: 24101990460. Your payment of 30,000 RWF to Linda Green 73777 has been completed at 2024-12-24 22:59:42. Your new balance: 124,134 RWF. Fee was 0 RWF.
+TxId: 36173508232. Your payment of 27,500 RWF to Robert Brown 65225 has been completed at 2024-12-26 00:02:08. Your new balance: 105,334 RWF. Fee was 0 RWF.
+TxId: 83297515675. Your payment of 20,900 RWF to Robert Brown 27754 has been completed at 2024-12-26 19:21:06. Your new balance: 84,434 RWF. Fee was 0 RWF.
+TxId: 91646737384. Your payment of 19,200 RWF to Alex Doe 41445 has been completed at 2024-12-27 02:01:48. Your new balance: 58,134 RWF. Fee was 0 RWF.
+TxId: 32322247458. Your payment of 4,500 RWF to Robert Brown 65260 has been completed at 2024-12-27 16:51:18. Your new balance: 43,634 RWF. Fee was 0 RWF.
+TxId: 25739550229. Your payment of 6,000 RWF to Alex Doe 10834 has been completed at 2024-12-27 19:39:10. Your new balance: 41,184 RWF. Fee was 0 RWF.
+TxId: 99751172452. Your payment of 12,000 RWF to Linda Green 77386 has been completed at 2024-12-27 21:44:34. Your new balance: 19,084 RWF. Fee was 0 RWF.
+TxId: 50448841591. Your payment of 2,200 RWF to Samuel Carter 35285 has been completed at 2024-12-27 21:49:25. Your new balance: 16,884 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-28 08:02:55. Message from debit receiver: . Your new balance:5864 RWF. Fee was 0 RWF. Financial Transaction Id: 17725876735. External Transaction Id: 17353657322483063.*EN#
+TxId: 46963818865. Your payment of 17,000 RWF to Jane Smith 35486 has been completed at 2024-12-28 21:23:32. Your new balance: 18,864 RWF. Fee was 0 RWF.
+TxId: 78301179486. Your payment of 2,000 RWF to Linda Green 36261 has been completed at 2024-12-28 22:44:16. Your new balance: 16,864 RWF. Fee was 0 RWF.
+TxId: 34561368106. Your payment of 33,000 RWF to Robert Brown 94662 has been completed at 2024-12-29 14:02:51. Your new balance: 33,864 RWF. Fee was 0 RWF.
+TxId: 87189301259. Your payment of 1,950 RWF to Robert Brown 17324 has been completed at 2024-12-29 16:12:19. Your new balance: 26,814 RWF. Fee was 0 RWF.
+TxId: 32473306579. Your payment of 2,500 RWF to Jane Smith 25428 has been completed at 2024-12-29 18:43:58. Your new balance: 24,314 RWF. Fee was 0 RWF.
+TxId: 11332825043. Your payment of 8,000 RWF to Linda Green 11500 has been completed at 2024-12-30 16:39:33. Your new balance: 43,779 RWF. Fee was 0 RWF.
+TxId: 58861772799. Your payment of 2,000 RWF to Linda Green 99703 has been completed at 2024-12-30 19:16:10. Your new balance: 38,479 RWF. Fee was 0 RWF.
+TxId: 79491078117. Your payment of 9,500 RWF to Alex Doe 14352 has been completed at 2024-12-30 22:08:08. Your new balance: 28,979 RWF. Fee was 0 RWF.
+TxId: 26480204749. Your payment of 8,100 RWF to Robert Brown 76867 has been completed at 2024-12-31 17:17:05. Your new balance: 96,612 RWF. Fee was 0 RWF.
+TxId: 11689124968. Your payment of 14,000 RWF to Alex Doe 20492 has been completed at 2024-12-31 23:56:53. Your new balance: 66,262 RWF. Fee was 0 RWF.
+TxId: 35592207581. Your payment of 11,800 RWF to Jane Smith 85059 has been completed at 2025-01-01 20:44:56. Your new balance: 33,212 RWF. Fee was 0 RWF.
+*162*TxId:17841214930*S*Your payment of 322726 RWF to WASAC with token 888931 has been completed at 2025-01-02 14:03:47. Fee was 300 RWF. Your new balance: 53322 RWF . Message: - -. *EN#
+TxId: 48873092706. Your payment of 2,000 RWF to Alex Doe 29339 has been completed at 2025-01-02 14:43:15. Your new balance: 48,222 RWF. Fee was 0 RWF.
+TxId: 56839942126. Your payment of 300 RWF to Linda Green 43036 has been completed at 2025-01-02 14:53:18. Your new balance: 47,922 RWF. Fee was 0 RWF.
+TxId: 82394883480. Your payment of 12,000 RWF to Linda Green 15355 has been completed at 2025-01-02 18:55:32. Your new balance: 35,922 RWF. Fee was 0 RWF.
+TxId: 93254937757. Your payment of 1,500 RWF to Linda Green 72867 has been completed at 2025-01-02 20:28:49. Your new balance: 1,922 RWF. Fee was 0 RWF.
+TxId: 31144936614. Your payment of 1,000 RWF to Alex Doe 18193 has been completed at 2025-01-03 21:59:34. Your new balance: 29,472 RWF. Fee was 0 RWF.
+TxId: 47955567230. Your payment of 5,400 RWF to Linda Green 80598 has been completed at 2025-01-03 22:04:05. Your new balance: 24,072 RWF. Fee was 0 RWF.
+TxId: 51461434870. Your payment of 11,000 RWF to Jane Smith 58502 has been completed at 2025-01-04 20:08:40. Your new balance: 13,072 RWF. Fee was 0 RWF.
+TxId: 26095846303. Your payment of 20,000 RWF to Robert Brown 84840 has been completed at 2025-01-05 16:48:14. Your new balance: 123,087 RWF. Fee was 0 RWF.
+TxId: 29138578472. Your payment of 10,000 RWF to Linda Green 49806 has been completed at 2025-01-05 19:14:53. Your new balance: 111,487 RWF. Fee was 0 RWF.
+TxId: 42047000517. Your payment of 4,000 RWF to Alex Doe 72191 has been completed at 2025-01-05 19:29:35. Your new balance: 107,487 RWF. Fee was 0 RWF.
+TxId: 93141088379. Your payment of 3,500 RWF to Jane Smith 99835 has been completed at 2025-01-06 13:33:20. Your new balance: 103,987 RWF. Fee was 0 RWF.
+TxId: 50185533867. Your payment of 1,500 RWF to Samuel Carter 11320 has been completed at 2025-01-06 18:49:55. Your new balance: 29,237 RWF. Fee was 0 RWF.
+TxId: 12490495576. Your payment of 10,000 RWF to Linda Green 27044 has been completed at 2025-01-07 00:00:41. Your new balance: 36,449 RWF. Fee was 0 RWF.
+TxId: 64907673038. Your payment of 2,500 RWF to Samuel Carter 11135 has been completed at 2025-01-07 18:45:01. Your new balance: 21,699 RWF. Fee was 0 RWF.
+TxId: 32539170420. Your payment of 200 RWF to Jane Smith 71988 has been completed at 2025-01-07 19:10:37. Your new balance: 21,499 RWF. Fee was 0 RWF.
+TxId: 78103204977. Your payment of 3,500 RWF to Samuel Carter 91424 has been completed at 2025-01-08 09:14:53. Your new balance: 13,899 RWF. Fee was 0 RWF.
+TxId: 31387192219. Your payment of 4,000 RWF to Robert Brown 27045 has been completed at 2025-01-08 13:01:15. Your new balance: 9,899 RWF. Fee was 0 RWF.
+TxId: 57476994247. Your payment of 7,000 RWF to Linda Green 29089 has been completed at 2025-01-08 13:37:13. Your new balance: 2,899 RWF. Fee was 0 RWF.
+TxId: 98632277447. Your payment of 32,400 RWF to Samuel Carter 39639 has been completed at 2025-01-08 23:39:35. Your new balance: 15,999 RWF. Fee was 0 RWF.
+TxId: 40588162053. Your payment of 3,800 RWF to Robert Brown 18304 has been completed at 2025-01-09 13:13:37. Your new balance: 12,199 RWF. Fee was 0 RWF.
+TxId: 45609632088. Your payment of 1,500 RWF to Alex Doe 73508 has been completed at 2025-01-09 20:47:02. Your new balance: 66,493 RWF. Fee was 0 RWF.
+TxId: 85530195772. Your payment of 8,500 RWF to Alex Doe 65461 has been completed at 2025-01-09 23:08:57. Your new balance: 57,993 RWF. Fee was 0 RWF.
+TxId: 44937760731. Your payment of 3,000 RWF to Alex Doe 19217 has been completed at 2025-01-10 14:22:41. Your new balance: 49,893 RWF. Fee was 0 RWF.
+TxId: 65965699498. Your payment of 1,500 RWF to Linda Green 22825 has been completed at 2025-01-10 19:43:53. Your new balance: 48,393 RWF. Fee was 0 RWF.
+TxId: 22829152838. Your payment of 32,500 RWF to Jane Smith 12770 has been completed at 2025-01-10 21:41:23. Your new balance: 23,893 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-12 14:20:37. Message from debit receiver: . Your new balance:17873 RWF. Fee was 0 RWF. Financial Transaction Id: 18044804543. External Transaction Id: 17366843252778824.*EN#
+TxId: 52225700417. Your payment of 31,000 RWF to Linda Green 29282 has been completed at 2025-01-12 18:29:48. Your new balance: 36,873 RWF. Fee was 0 RWF.
+TxId: 31581671113. Your payment of 10,000 RWF to Jane Smith 97571 has been completed at 2025-01-13 14:22:39. Your new balance: 22,773 RWF. Fee was 0 RWF.
+*162*TxId:18064613724*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2025-01-13 14:42:09. Fee was 0 RWF. Your new balance: 983950 RWF . Message: - -. *EN#
+Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TxId: 33961366964. Your payment of 35,300 RWF to Jane Smith 23980 has been completed at 2025-01-13 20:22:16. Your new balance: 122,050 RWF. Fee was 0 RWF.
+TxId: 36439238929. Your payment of 3,800 RWF to Jane Smith 46055 has been completed at 2025-01-14 13:02:52. Your new balance: 98,000 RWF. Fee was 0 RWF.
+*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-14 17:29:36. Message from debit receiver: . Your new balance:88000 RWF. Fee was 0 RWF. Financial Transaction Id: 18087757600. External Transaction Id: 17368685383021954.*EN#
+TxId: 30801532894. Your payment of 1,000 RWF to Jane Smith 61758 has been completed at 2025-01-14 20:08:44. Your new balance: 87,000 RWF. Fee was 0 RWF.
+TxId: 55109401801. Your payment of 14,500 RWF to Samuel Carter 39233 has been completed at 2025-01-14 21:25:51. Your new balance: 72,500 RWF. Fee was 0 RWF.
+TxId: 26811810649. Your payment of 27,000 RWF to Robert Brown 60033 has been completed at 2025-01-15 20:26:12. Your new balance: 31,300 RWF. Fee was 0 RWF.
+TxId: 51350491173. Your payment of 1,500 RWF to Samuel Carter 58769 has been completed at 2025-01-15 20:34:58. Your new balance: 29,800 RWF. Fee was 0 RWF.
+TxId: 37832903831. Your payment of 24,900 RWF to Robert Brown 23478 has been completed at 2025-01-16 00:13:22. Your new balance: 4,900 RWF. Fee was 0 RWF.

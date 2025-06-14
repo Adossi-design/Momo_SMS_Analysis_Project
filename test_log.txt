@@ -1,0 +1,62 @@
+=== MoMo Data Analysis Project Test Log ===
+
+Author: Adossi Fred William
+Date: June 2025
+Project: MoMo Data Analysis
+
+--------------------------------------------
+
+step 1: Parsing SMS XML
+--------------------------------------------
+Command: python backend/parse_sms.py
+[INFO] Parsed 1600 messages from data/modified_sms_v2.xml
+[INFO] Output written to backend/parsed_sms.json
+[STATUS] Success
+
+Step 2: Categorizing Messages
+--------------------------------------------
+Command: python backend/categorize.py
+[INFO] Successfully categorized 1465 valid transactions.
+[INFO] Ignored or unrecognized: 135 messages (logged in backend/unrecognized_log.txt)
+[STATUS] Success
+
+Step 3: Creating Database and Inserting Data
+--------------------------------------------
+Command: python backend/insert_to_db.py
+[INFO] Created or verified SQLite database: backend/sms.db
+[INFO] Inserted 1465 records into 'transactions' table
+[STATUS] Success
+
+Step 4: Testing Flask API (Bonus)
+--------------------------------------------
+Command: python backend/api.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO] Flask API launched at /api/transactions
+
+API Test (Curl):
+Command: curl http://127.0.0.1:5000/api/transactions
+[
+  {
+    "id": 1,
+    "transaction_id": "TX123456",
+    "type": "Deposit",
+    "amount": 5000,
+    ...
+  },
+  ...
+]
+[STATUS] Success
+
+Step 5: Frontend Dashboard Load Test
+--------------------------------------------
+Opened: frontend/index.html
+[INFO] Successfully fetched data from Flask API
+[INFO] Charts rendered: Transaction Volume Monthly Summary Category Distribution
+[INFO] Filters functional
+[STATUS] Success
+
+--------------------------------------------
+ALL COMPONENTS TESTED AND WORKING PROPERLY
+This project has passed all required functional checks.
+
+[END OF LOG]

@@ -1,0 +1,87 @@
+/* === Global reset and base styling === */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* === Header section === */
+header {
+    background: #ffc107;
+    padding: 1rem;
+    text-align: center;
+    color: #222;
+}
+
+/* === Main container === */
+main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+/* === Search & Filter controls === */
+.controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* Input and dropdown styling */
+.controls input,
+.controls select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 48%;
+}
+
+/* === Dashboard card area === */
+.dashboard {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+/* === Transaction List === */
+#transactionList {
+    margin-top: 2rem;
+}
+
+/* Each transaction card */
+.transaction-item {
+    padding: 0.8rem;
+    border-bottom: 1px solid #eee;
+}
+
+/* Remove bottom border on last item */
+.transaction-item:last-child {
+    border-bottom: none;
+}
+
+/* Category title style */
+.transaction-item strong {
+    display: block;
+    margin-bottom: 0.3rem;
+    color: #007bff;
+}
+
+/* === Footer === */
+footer {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 3rem;
+    background: #eee;
+    font-size: 0.9rem;
+    color: #555;
+}
