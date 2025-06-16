@@ -1,0 +1,21 @@
+TEXT_LOG
+
+$ python process_sms.py
+Processed 970 valid messages.
+
+$ ls
+app.py  cleaned_data.json  insert_data.py  process_sms.py  unprocessed_messages.log
+
+$ python insert_data.py
+Database created and populated successfully.
+
+$ python app.py
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 778-496-219
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
