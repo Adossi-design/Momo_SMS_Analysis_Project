@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MTN MoMo Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>MTN MoMo SMS Dashboard</h1>
+  </header>
+
+  <main>
+    <section class="search-panel">
+      <input type="text" id="searchBox" placeholder="Search by type, amount or party..." />
+      <button onclick="filterData()">Search</button>
+      <p id="noResultMsg" class="hidden">No matching records found.</p>
+    </section>
+
+    <section class="charts">
+      <canvas id="typeChart"></canvas>
+      <canvas id="monthlyChart"></canvas>
+      <canvas id="pieChart"></canvas>
+    </section>
+
+    <section class="table-section">
+      <h2>Transactions</h2>
+      <div class="table-wrapper">
+        <table id="transactionTable">
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Amount (RWF)</th>
+              <th>Party</th>
+              <th>Transaction ID</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
