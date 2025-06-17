@@ -1,0 +1,34 @@
+# Claude Code internal folder
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment config
+.env
+
+# Generated data (re-create by running the pipeline)
+backend/db.sqlite3
+backend/cleaned_data.json
+backend/unprocessed_messages.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
