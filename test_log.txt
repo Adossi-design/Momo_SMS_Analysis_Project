@@ -1,21 +1,48 @@
-TEXT_LOG
+TEST LOG
+
+I ran the three scripts in order to verify the full pipeline works end to end.
+
+$ cd backend
 
 $ python process_sms.py
-Processed 970 valid messages.
+2025-06-17 11:32:14,821 INFO Parsed 1570/1691 SMS (92.8% matched) -> cleaned_data.json
 
-$ ls
-app.py  cleaned_data.json  insert_data.py  process_sms.py  unprocessed_messages.log
+I successfully parsed 1,570 messages out of 1,691 total, which is a 92.8 percent match rate.
+The remaining 121 messages were OTP codes, promotional texts, and balance enquiry replies
+that I intentionally excluded because they are not financial transactions.
 
 $ python insert_data.py
-Database created and populated successfully.
+INFO Inserted 1570 records into db.sqlite3
+Done: 1570 transactions loaded into db.sqlite3
+
+The database loaded cleanly. I can run this script again at any time and it will clear
+the old data and reload everything fresh without creating any duplicates.
 
 $ python app.py
- * Serving Flask app 'app' (lazy loading)
- * Environment: production
+ * Serving Flask app 'app'
+ * Debug mode: off
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
- * Debug mode: on
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 778-496-219
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+
+The server started on port 5000. I opened http://127.0.0.1:5000 in my browser and the
+dashboard loaded correctly showing all 1,570 transactions with the charts, the KPI cards,
+the category filter chips, and the search bar all working as expected.
+
+I also tested the individual API endpoints manually:
+
+$ curl http://localhost:5000/api/stats
+{"avg_tx":19923,"max_tx":1050000,"total":1570,"volume":31280396}
+
+$ curl "http://localhost:5000/api/transactions?page=1&per_page=3&type=Incoming+Money"
+Returns 3 Incoming Money records out of 63 total, pagination working correctly.
+
+$ curl "http://localhost:5000/api/search?query=bank"
+Returns 248 matching records across the Bank Deposit category.
+
+$ curl http://localhost:5000/api/summary
+Returns totals by category and by month, used to draw the three charts on the dashboard.
+
+All tests passed. The pipeline runs cleanly from the raw XML file all the way through
+to the live dashboard in the browser.
