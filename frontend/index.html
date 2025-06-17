@@ -1,48 +1,230 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <title>MTN MoMo Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTN MoMo — Analytics Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Prevent flash of wrong theme -->
+  <script>
+    (function () {
+      var t = localStorage.getItem('momo-theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
 </head>
 <body>
-  <header>
-    <h1>MTN MoMo SMS Dashboard</h1>
+
+  <!-- Full-page loader -->
+  <div id="pageLoader" class="page-loader">
+    <div class="loader-ring"></div>
+    <p class="loader-text">Loading dashboard…</p>
+  </div>
+
+  <!-- ── Header ─────────────────────────────────────────────────── -->
+  <header class="site-header">
+    <div class="header-inner container">
+
+      <div class="brand">
+        <div class="brand-logo" aria-hidden="true">M</div>
+        <div class="brand-info">
+          <span class="brand-name">MoMo Analytics</span>
+          <span class="brand-sub">Rwanda · SMS Transaction Intelligence</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="status-pill" aria-label="Dashboard status">
+          <span class="pulse-dot" aria-hidden="true"></span>
+          <span>Live</span>
+        </div>
+        <button id="themeToggle" class="icon-btn" aria-label="Toggle colour theme">
+          <!-- Sun: visible in dark mode -->
+          <svg id="iconSun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <!-- Moon: visible in light mode -->
+          <svg id="iconMoon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+      </div>
+
+    </div>
   </header>
 
+  <!-- ── Main ───────────────────────────────────────────────────── -->
   <main>
-    <section class="search-panel">
-      <input type="text" id="searchBox" placeholder="Search by type, amount or party..." />
-      <button onclick="filterData()">Search</button>
-      <p id="noResultMsg" class="hidden">No matching records found.</p>
-    </section>
+    <div class="container">
 
-    <section class="charts">
-      <canvas id="typeChart"></canvas>
-      <canvas id="monthlyChart"></canvas>
-      <canvas id="pieChart"></canvas>
-    </section>
+      <!-- KPI Cards -->
+      <section class="kpi-grid" aria-label="Key metrics">
 
-    <section class="table-section">
-      <h2>Transactions</h2>
-      <div class="table-wrapper">
-        <table id="transactionTable">
-          <thead>
-            <tr>
-              <th>Type</th>
-              <th>Amount (RWF)</th>
-              <th>Party</th>
-              <th>Transaction ID</th>
-              <th>Date</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </section>
+        <div class="kpi-card" data-accent="yellow">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <rect x="2" y="5" width="20" height="14" rx="2"/>
+              <line x1="2" y1="10" x2="22" y2="10"/>
+            </svg>
+          </div>
+          <div class="kpi-body">
+            <span class="kpi-label">Total Transactions</span>
+            <span class="kpi-value" id="statTotal">—</span>
+          </div>
+        </div>
+
+        <div class="kpi-card" data-accent="green">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/>
+              <polyline points="17 6 23 6 23 12"/>
+            </svg>
+          </div>
+          <div class="kpi-body">
+            <span class="kpi-label">Total Volume</span>
+            <span class="kpi-value" id="statVolume">—</span>
+            <span class="kpi-sub">Rwandan Francs</span>
+          </div>
+        </div>
+
+        <div class="kpi-card" data-accent="blue">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            </svg>
+          </div>
+          <div class="kpi-body">
+            <span class="kpi-label">Largest Transaction</span>
+            <span class="kpi-value" id="statMax">—</span>
+          </div>
+        </div>
+
+        <div class="kpi-card" data-accent="purple">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <line x1="18" y1="20" x2="18" y2="10"/>
+              <line x1="12" y1="20" x2="12" y2="4"/>
+              <line x1="6"  y1="20" x2="6"  y2="14"/>
+            </svg>
+          </div>
+          <div class="kpi-body">
+            <span class="kpi-label">Average Transaction</span>
+            <span class="kpi-value" id="statAvg">—</span>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- Filter bar -->
+      <section class="filter-bar" aria-label="Filters and search">
+
+        <div class="chips-wrap" id="categoryChips" role="group" aria-label="Filter by category">
+          <button class="chip active" data-type="">All</button>
+        </div>
+
+        <div class="filter-right">
+          <div class="search-wrap">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="search" id="searchBox" placeholder="Search type, party, amount…" aria-label="Search transactions">
+          </div>
+          <button id="exportBtn" class="btn-export" title="Download all transactions as CSV">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="7 10 12 15 17 10"/>
+              <line x1="12" y1="15" x2="12" y2="3"/>
+            </svg>
+            Export CSV
+          </button>
+        </div>
+
+      </section>
+
+      <!-- Error toast -->
+      <p id="errorMsg" class="error-banner hidden" role="alert"></p>
+
+      <!-- Charts -->
+      <section class="charts-grid" aria-label="Data visualisations">
+
+        <div class="chart-card chart-area-bar">
+          <div class="chart-header">
+            <h3>Volume by Category</h3>
+            <span class="chart-meta" id="chartTotal">—</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="typeChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card chart-area-line">
+          <div class="chart-header">
+            <h3>Monthly Trend</h3>
+            <span class="chart-meta">Total RWF · per month</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="monthlyChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card chart-area-donut">
+          <div class="chart-header">
+            <h3>Distribution</h3>
+            <span class="chart-meta">Share by category</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="pieChart"></canvas>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- Transactions table -->
+      <section class="data-section" aria-label="Transaction records">
+
+        <div class="table-header">
+          <div class="table-title">
+            <h2>Transactions</h2>
+            <span class="count-pill" id="tableCount">—</span>
+          </div>
+          <p id="noResultMsg" class="no-result hidden" role="status">No matching records found.</p>
+        </div>
+
+        <div class="table-wrap">
+          <table id="transactionTable">
+            <thead>
+              <tr>
+                <th scope="col">Category</th>
+                <th scope="col" class="align-right">Amount&nbsp;(RWF)</th>
+                <th scope="col">Party</th>
+                <th scope="col">Ref&nbsp;ID</th>
+                <th scope="col">Date &amp; Time</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+
+        <div id="pagination" class="pagination" role="navigation" aria-label="Table pagination"></div>
+
+      </section>
+
+    </div><!-- /container -->
   </main>
+
+  <!-- ── Footer ─────────────────────────────────────────────────── -->
+  <footer class="site-footer">
+    <p>MTN MoMo SMS Analysis &mdash; African Leadership University &mdash; June 2025</p>
+    <p class="footer-name">Adossi Fred William</p>
+  </footer>
 
   <script src="script.js"></script>
 </body>
